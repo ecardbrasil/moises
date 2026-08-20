@@ -9,8 +9,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Internal campaign dashboard: heat map of the 2024 city council (vereador)
 vote results in Porto Alegre, tracking progress toward a 2026 state
 deputy (deputado estadual) goal. Next.js App Router + TypeScript +
-Tailwind, `react-leaflet` + `leaflet.heat` for the map, all data served
-from static JSON (no database, no API routes). Deploy target: Vercel.
+Tailwind, `react-leaflet` + `leaflet.heat` for the map. Election results
+are static JSON (no database). The windbanner-routes feature (see below)
+is the one part of the app backed by a real database (Supabase/Postgres)
+and API routes — everything else is still static JSON. Deploy target:
+Vercel.
 
 ## Commands
 
@@ -87,3 +90,51 @@ hardcoded.
 - `LocationWithVotes` (in `src/lib/types.ts`) is the shape almost every
   component consumes: a `Location` (address + geocoding) merged with that
   location's `votos`/`pctTotal` for the active election.
+
+## Windbanner routes (admin feature)
+
+Tracks the daily routes field volunteers walk to place campaign
+windbanners, so progress shows up on the same map as the vote heat map.
+Unlike the rest of the app, this is backed by a real database:
+
+- **Database**: Supabase project `moises-windbanners` (Postgres), tables
+  `windbanner_routes` and `windbanner_points` (see the migration applied
+  via the Supabase MCP tool — there's no `supabase/migrations` folder in
+  this repo, the schema lives only in the hosted project). RLS is enabled
+  with a fully-open policy (`using (true) with check (true)`) because
+  there is no authentication yet — anyone with the link can read/write.
+  Tighten these policies first if auth is ever added.
+- **Env vars**: `NEXT_PUBLIC_SUPABASE_URL` / `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+  (see `.env.example`). Required in Vercel project settings for
+  production, and in `.env.local` for local dev (gitignored).
+- **Data layer**: `src/lib/windbanners.ts` (server-side Supabase queries,
+  camelCase mapping), `src/lib/windbanner-client.ts` (fetch wrappers used
+  by client components), `src/lib/windbanner-types.ts`.
+- **API routes**: `/api/windbanner-routes` (list/create),
+  `/api/windbanner-routes/[id]` (get/update/delete),
+  `/api/windbanner-routes/[id]/points` (add point — geocodes the address
+  server-side via `src/lib/geocode.ts` if lat/lng aren't given),
+  `/api/windbanner-routes/[id]/points/reorder`,
+  `/api/windbanner-points/[id]` (update/delete a single point).
+- **Admin UI**: `/admin` (list/create routes), `/admin/rotas/[id]` (edit a
+  route: add points by address, reorder, delete, change route status).
+  No authentication — don't link this URL anywhere public.
+- **Field UI**: `/campo/[id]` — a compact, large-tap-target checklist for
+  whoever is out placing banners to mark each point
+  pendente/colocado/problema from their phone as they go.
+- **Map layer**: `src/components/map/WindbannerLayer.tsx` renders each
+  route as a dashed polyline connecting its geocoded points, plus a
+  `CircleMarker` per point colored by status
+  (`src/lib/windbanner-status.ts` has the shared status→color/label
+  maps). Toggled on/off independently of the heatmap/markers `mode` via
+  the "Windbanners" button in `DashboardClient`, which fetches all routes
+  client-side with `fetchRoutes()`.
+- **Sandbox network note**: like `nominatim.openstreetmap.org`, direct
+  outbound HTTPS to `*.supabase.co` is blocked in this sandboxed
+  environment's default egress policy, so the app can't be smoke-tested
+  end-to-end here without `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=/root/.ccr/ca-bundle.crt`
+  routing Node's fetch through the agent proxy — and even then the
+  destination host still needs to be allowlisted. Use the Supabase MCP
+  tools (`execute_sql`, etc.) to verify schema/data directly instead. This
+  isn't a problem on Vercel or on a contributor's own machine, both of
+  which have normal internet access.

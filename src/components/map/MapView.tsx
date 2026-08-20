@@ -3,10 +3,12 @@
 import { MapContainer, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import type { LocationWithVotes } from "@/lib/types";
+import type { WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import type { MapViewMode } from "@/components/ViewToggle";
 import HeatLayer from "./HeatLayer";
 import MarkersLayer from "./MarkersLayer";
 import MapLegend from "./MapLegend";
+import WindbannerLayer from "./WindbannerLayer";
 
 const PORTO_ALEGRE_CENTER: [number, number] = [-30.0446, -51.2177];
 
@@ -15,9 +17,18 @@ interface MapViewProps {
   mode: MapViewMode;
   selectedId: string | null;
   onSelect: (location: LocationWithVotes) => void;
+  windbannerRoutes?: WindbannerRouteWithPoints[];
+  showWindbanners?: boolean;
 }
 
-export default function MapView({ locations, mode, selectedId, onSelect }: MapViewProps) {
+export default function MapView({
+  locations,
+  mode,
+  selectedId,
+  onSelect,
+  windbannerRoutes = [],
+  showWindbanners = false,
+}: MapViewProps) {
   const geocoded = locations.filter((l) => l.lat != null && l.lng != null);
 
   return (
@@ -36,6 +47,7 @@ export default function MapView({ locations, mode, selectedId, onSelect }: MapVi
           <HeatLayer points={geocoded.map((l) => ({ lat: l.lat as number, lng: l.lng as number, votos: l.votos }))} />
         )}
         <MarkersLayer locations={geocoded} selectedId={selectedId} onSelect={onSelect} visible={mode === "markers"} />
+        {showWindbanners && <WindbannerLayer routes={windbannerRoutes} />}
       </MapContainer>
       <MapLegend mode={mode} />
     </div>
