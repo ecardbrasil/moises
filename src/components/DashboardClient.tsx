@@ -6,11 +6,13 @@ import dynamic from "next/dynamic";
 import type { CandidateConfig, LocationWithVotes, Zona } from "@/lib/types";
 import type { WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import { fetchRoutes } from "@/lib/windbanner-client";
+import { computeImpact } from "@/lib/windbanner-impact";
 import StatCards from "./StatCards";
 import ViewToggle, { type MapViewMode } from "./ViewToggle";
 import ZonaFilter from "./ZonaFilter";
 import LocationPanel from "./LocationPanel";
 import GeocodingCoverage from "./GeocodingCoverage";
+import ImpactSummaryPanel from "./windbanner/ImpactSummaryPanel";
 
 const MapView = dynamic(() => import("./map/MapView"), {
   ssr: false,
@@ -33,6 +35,7 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
   const [selectedZonas, setSelectedZonas] = useState<Set<number>>(new Set(zonas.map((z) => z.zona)));
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [showWindbanners, setShowWindbanners] = useState(false);
+  const [showImpact, setShowImpact] = useState(false);
   const [windbannerRoutes, setWindbannerRoutes] = useState<WindbannerRouteWithPoints[]>([]);
 
   useEffect(() => {
@@ -45,6 +48,8 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
     () => locations.filter((l) => selectedZonas.has(l.zona)),
     [locations, selectedZonas]
   );
+
+  const impact = useMemo(() => computeImpact(filteredLocations, windbannerRoutes), [filteredLocations, windbannerRoutes]);
 
   const selectedLocation = useMemo(
     () => filteredLocations.find((l) => l.id === selectedId) ?? null,
@@ -92,6 +97,17 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
         >
           Windbanners {windbannerRoutes.length > 0 ? `(${windbannerRoutes.length})` : ""}
         </button>
+        <button
+          type="button"
+          onClick={() => setShowImpact((v) => !v)}
+          className={`rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors ${
+            showImpact
+              ? "border-slate-900 bg-slate-900 text-white"
+              : "border-slate-200 bg-white text-slate-600 hover:bg-slate-100"
+          }`}
+        >
+          Impacto
+        </button>
         <Link href="/admin" className="text-xs text-slate-400 hover:text-slate-700 hover:underline">
           Admin
         </Link>
@@ -101,7 +117,7 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
         </span>
       </div>
 
-      <div className="border-b border-slate-200 bg-white px-4 py-2 sm:px-6">
+      <div className="space-y-2 border-b border-slate-200 bg-white px-4 py-2 sm:px-6">
         <GeocodingCoverage
           ok={geocoded}
           approx={approx}
@@ -109,6 +125,7 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
           total={filteredLocations.length}
           failedLocations={failedLocations}
         />
+        <ImpactSummaryPanel impact={impact} locations={filteredLocations} />
       </div>
 
       <div className="flex min-h-0 flex-1 flex-col md:flex-row">
@@ -120,6 +137,8 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
             onSelect={(l) => setSelectedId(l.id)}
             windbannerRoutes={windbannerRoutes}
             showWindbanners={showWindbanners}
+            impact={impact}
+            showImpact={showImpact}
           />
         </div>
         <aside className="w-full shrink-0 border-t border-slate-200 bg-white md:h-auto md:w-80 md:border-l md:border-t-0">
