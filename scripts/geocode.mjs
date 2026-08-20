@@ -71,16 +71,34 @@ function streetOnly(endereco) {
     .trim();
 }
 
+// Many TSE rows append a neighborhood/village after a " - ", e.g.
+// "AV. X, 665 - VILA SANTA ROSA" or "RUA Y, S/N - VILA MAPA - PARADA 4".
+// When the street+number can't be found at all, that neighborhood name
+// alone often can — a coarser but still useful pin.
+function neighborhoodOnly(endereco) {
+  const parts = endereco
+    .split(/\s+-\s+/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+  if (parts.length < 2) return null;
+  for (let i = 1; i < parts.length; i++) {
+    if (!/^(PARADA|PDA\.?)\s*\d+/i.test(parts[i])) return parts[i];
+  }
+  return null;
+}
+
 // Ordered geocoding strategies, tried until one succeeds. Each entry maps to
 // a geocodeStatus label for whichever one finally works.
 function buildAttempts(loc) {
   const raw = loc.enderecoNormalizado;
   const cleaned = cleanEndereco(raw);
   const street = streetOnly(cleaned);
+  const neighborhood = neighborhoodOnly(raw);
 
   const attempts = [{ query: `${raw}, ${CITY_SUFFIX}`, status: "ok" }];
   if (cleaned !== raw) attempts.push({ query: `${cleaned}, ${CITY_SUFFIX}`, status: "ok" });
   if (street && street !== cleaned) attempts.push({ query: `${street}, ${CITY_SUFFIX}`, status: "approx" });
+  if (neighborhood) attempts.push({ query: `${neighborhood}, ${CITY_SUFFIX}`, status: "approx" });
   // Last resort: search by the venue's own name (many schools/clubs are
   // mapped as named POIs in OSM even when the postal address string isn't).
   attempts.push({ query: `${loc.nome}, ${CITY_SUFFIX}`, status: "approx" });
