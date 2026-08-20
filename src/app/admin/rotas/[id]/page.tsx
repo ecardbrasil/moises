@@ -6,11 +6,13 @@ import { useEffect, useState } from "react";
 import type { WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import { addPoint, deletePoint, deleteRoute, fetchRoute, reorderPoints, updateRoute } from "@/lib/windbanner-client";
 import { POINT_STATUS_BADGE_CLASS, POINT_STATUS_LABEL } from "@/lib/windbanner-status";
+import { useToast } from "@/components/toast/useToast";
 
 export default function RouteEditorPage() {
   const params = useParams<{ id: string }>();
   const router = useRouter();
   const routeId = params.id;
+  const toast = useToast();
 
   const [route, setRoute] = useState<WindbannerRouteWithPoints | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -37,8 +39,11 @@ export default function RouteEditorPage() {
       await addPoint(routeId, { endereco: endereco.trim() });
       setEndereco("");
       reload();
+      toast({ message: "Ponto adicionado" });
     } catch (e) {
-      setError(e instanceof Error ? e.message : "Erro ao adicionar ponto");
+      const message = e instanceof Error ? e.message : "Erro ao adicionar ponto";
+      setError(message);
+      toast({ message, variant: "error" });
     } finally {
       setAdding(false);
     }
@@ -56,14 +61,31 @@ export default function RouteEditorPage() {
   }
 
   async function handleDeletePoint(pointId: string) {
+    if (!route) return;
+    const removed = route.pontos.find((p) => p.id === pointId);
     if (!confirm("Remover este ponto da rota?")) return;
     await deletePoint(pointId);
     reload();
+    toast({
+      message: "Ponto removido",
+      actionLabel: removed ? "Desfazer" : undefined,
+      onAction: removed
+        ? () => {
+            addPoint(routeId, { endereco: removed.endereco, lat: removed.lat, lng: removed.lng })
+              .then(() => {
+                reload();
+                toast({ message: "Ponto restaurado" });
+              })
+              .catch((e) => toast({ message: e instanceof Error ? e.message : "Erro ao desfazer", variant: "error" }));
+          }
+        : undefined,
+    });
   }
 
   async function handleDeleteRoute() {
     if (!confirm("Excluir esta rota inteira, incluindo todos os pontos?")) return;
     await deleteRoute(routeId);
+    toast({ message: "Rota excluída" });
     router.push("/admin");
   }
 
@@ -71,6 +93,7 @@ export default function RouteEditorPage() {
     if (!route) return;
     await updateRoute(routeId, { status });
     reload();
+    toast({ message: "Status atualizado" });
   }
 
   if (error) return <p className="p-6 text-sm text-red-700">{error}</p>;

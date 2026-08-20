@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import type { PointStatus, WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import { fetchRoute, updatePoint } from "@/lib/windbanner-client";
 import { POINT_STATUS_BADGE_CLASS, POINT_STATUS_LABEL } from "@/lib/windbanner-status";
+import { useToast } from "@/components/toast/useToast";
 
 const ACTIONS: { status: PointStatus; label: string }[] = [
   { status: "colocado", label: "Colocado" },
@@ -15,6 +16,7 @@ const ACTIONS: { status: PointStatus; label: string }[] = [
 export default function FieldChecklistPage() {
   const params = useParams<{ id: string }>();
   const routeId = params.id;
+  const toast = useToast();
 
   const [route, setRoute] = useState<WindbannerRouteWithPoints | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -36,6 +38,9 @@ export default function FieldChecklistPage() {
     try {
       await updatePoint(pointId, { status });
       reload();
+      toast({ message: `Marcado como ${POINT_STATUS_LABEL[status].toLowerCase()}` });
+    } catch (e) {
+      toast({ message: e instanceof Error ? e.message : "Erro ao salvar", variant: "error" });
     } finally {
       setSavingId(null);
     }

@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import type { WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import { createRoute, fetchRoutes } from "@/lib/windbanner-client";
+import { useToast } from "@/components/toast/useToast";
 
 function pointsSummary(route: WindbannerRouteWithPoints) {
   const total = route.pontos.length;
@@ -14,6 +15,7 @@ function pointsSummary(route: WindbannerRouteWithPoints) {
 
 export default function AdminPage() {
   const router = useRouter();
+  const toast = useToast();
   const [routes, setRoutes] = useState<WindbannerRouteWithPoints[] | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [showForm, setShowForm] = useState(false);
@@ -43,9 +45,12 @@ export default function AdminPage() {
       setDataPrevista("");
       setShowForm(false);
       reload();
+      toast({ message: "Rota criada" });
       router.push(`/admin/rotas/${route.id}`);
     } catch (e) {
-      setError(e instanceof Error ? e.message : "Erro ao criar rota");
+      const message = e instanceof Error ? e.message : "Erro ao criar rota";
+      setError(message);
+      toast({ message, variant: "error" });
     } finally {
       setSaving(false);
     }
