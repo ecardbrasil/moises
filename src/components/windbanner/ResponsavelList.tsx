@@ -42,7 +42,7 @@ export default function ResponsavelList({ responsaveis, routesByResponsavel, onT
                     {rotas.map((rota) => (
                       <li key={rota.id}>
                         <Link
-                          href={`/admin/rotas/${rota.id}`}
+                          href={`/admin/windbanners/rotas/${rota.id}`}
                           className="rounded border border-slate-200 px-1.5 py-0.5 text-xs text-slate-600 hover:bg-slate-50"
                         >
                           {rota.nome}

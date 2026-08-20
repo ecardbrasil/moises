@@ -77,7 +77,7 @@ export default function WindbannersAdminPage() {
       setRouteResponsavelId(null);
       setShowRouteForm(false);
       toast({ message: "Rota criada" });
-      router.push(`/admin/rotas/${route.id}`);
+      router.push(`/admin/windbanners/rotas/${route.id}`);
     } catch (e) {
       toast({ message: e instanceof Error ? e.message : "Erro ao criar rota", variant: "error" });
     } finally {

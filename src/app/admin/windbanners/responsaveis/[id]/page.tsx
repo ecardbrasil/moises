@@ -108,7 +108,7 @@ export default function ResponsavelDetailPage() {
           {routes?.length === 0 && <li className="text-sm text-slate-400">Nenhuma rota ainda.</li>}
           {routes?.map((route) => (
             <li key={route.id} className="rounded-lg border border-slate-200 bg-white p-3">
-              <Link href={`/admin/rotas/${route.id}`} className="font-medium text-slate-900 hover:underline">
+              <Link href={`/admin/windbanners/rotas/${route.id}`} className="font-medium text-slate-900 hover:underline">
                 {route.nome}
               </Link>
               <p className="text-xs text-slate-500">{route.pontos.length} pontos</p>
