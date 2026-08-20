@@ -21,7 +21,7 @@ export default function MapView({ locations, mode, selectedId, onSelect }: MapVi
   const geocoded = locations.filter((l) => l.lat != null && l.lng != null);
 
   return (
-    <div className="relative h-full w-full">
+    <div className="relative isolate h-full w-full">
       <MapContainer
         center={PORTO_ALEGRE_CENTER}
         zoom={12}
