@@ -45,8 +45,8 @@ export default function ZonaFilter({ zonas, selected, onChange }: ZonaFilterProp
 
       {open && (
         <>
-          <div className="fixed inset-0 z-10" onClick={() => setOpen(false)} />
-          <div className="absolute left-0 z-20 mt-1 w-72 max-w-[90vw] rounded-lg border border-slate-200 bg-white p-2 shadow-lg">
+          <div className="fixed inset-0 z-40" onClick={() => setOpen(false)} />
+          <div className="absolute left-0 z-50 mt-1 w-72 max-w-[90vw] rounded-lg border border-slate-200 bg-white p-2 shadow-lg">
             <button
               type="button"
               onClick={toggleAll}

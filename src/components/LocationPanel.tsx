@@ -1,28 +1,91 @@
+"use client";
+
+import { useMemo, useState } from "react";
 import type { LocationWithVotes, Zona } from "@/lib/types";
 
 interface LocationPanelProps {
   location: LocationWithVotes | null;
   zonas: Zona[];
-  topLocations: LocationWithVotes[];
+  locations: LocationWithVotes[];
   onSelect: (location: LocationWithVotes) => void;
   onClose: () => void;
 }
 
-export default function LocationPanel({ location, zonas, topLocations, onSelect, onClose }: LocationPanelProps) {
+type SortBy = "votos" | "nome";
+
+function normalize(s: string) {
+  return s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
+export default function LocationPanel({ location, zonas, locations, onSelect, onClose }: LocationPanelProps) {
+  const [query, setQuery] = useState("");
+  const [sortBy, setSortBy] = useState<SortBy>("votos");
+
+  const results = useMemo(() => {
+    const q = normalize(query.trim());
+    const filtered = q
+      ? locations.filter((l) => normalize(l.nome).includes(q) || normalize(l.endereco).includes(q))
+      : locations;
+    return filtered
+      .slice()
+      .sort((a, b) => (sortBy === "nome" ? a.nome.localeCompare(b.nome, "pt-BR") : b.votos - a.votos));
+  }, [locations, query, sortBy]);
+
   if (!location) {
     return (
-      <div className="flex h-full flex-col overflow-y-auto p-4">
-        <h2 className="text-sm font-semibold text-slate-900">Locais com mais votos</h2>
-        <p className="mt-1 text-xs text-slate-500">Clique num ponto do mapa para ver os detalhes aqui.</p>
-        <ul className="mt-3 space-y-1">
-          {topLocations.map((loc, i) => (
+      <div className="flex h-full flex-col overflow-hidden p-4">
+        <h2 className="text-sm font-semibold text-slate-900">Locais de votação</h2>
+
+        <input
+          type="text"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder="Buscar por nome ou endereço…"
+          className="mt-2 w-full rounded-md border border-slate-200 px-2.5 py-1.5 text-sm text-slate-700 placeholder:text-slate-400 focus:border-slate-400 focus:outline-none"
+        />
+
+        <div className="mt-2 flex items-center justify-between">
+          <span className="text-xs text-slate-500">
+            {results.length} de {locations.length} locais
+          </span>
+          <div className="inline-flex rounded-md border border-slate-200 p-0.5">
+            {(
+              [
+                { key: "votos", label: "Votos" },
+                { key: "nome", label: "A–Z" },
+              ] as const
+            ).map((opt) => (
+              <button
+                key={opt.key}
+                type="button"
+                onClick={() => setSortBy(opt.key)}
+                className={`rounded px-2 py-0.5 text-xs font-medium transition-colors ${
+                  sortBy === opt.key ? "bg-slate-900 text-white" : "text-slate-600 hover:bg-slate-100"
+                }`}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <ul className="mt-2 flex-1 space-y-1 overflow-y-auto">
+          {results.length === 0 && (
+            <li className="px-2 py-4 text-center text-xs text-slate-400">Nenhum local encontrado.</li>
+          )}
+          {results.map((loc, i) => (
             <li key={loc.id}>
               <button
                 type="button"
                 onClick={() => onSelect(loc)}
                 className="flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-sm hover:bg-slate-50"
               >
-                <span className="w-5 shrink-0 text-xs font-semibold text-slate-400">{i + 1}</span>
+                <span className="w-5 shrink-0 text-xs font-semibold text-slate-400">
+                  {sortBy === "votos" ? i + 1 : ""}
+                </span>
                 <span className="flex-1 truncate text-slate-700">{loc.nome}</span>
                 <span className="shrink-0 tabular-nums text-xs font-semibold text-slate-500">{loc.votos}</span>
               </button>

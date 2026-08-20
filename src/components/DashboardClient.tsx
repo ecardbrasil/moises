@@ -40,8 +40,6 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
     [filteredLocations, selectedId]
   );
 
-  const topLocations = useMemo(() => filteredLocations.slice(0, 15), [filteredLocations]);
-
   const geocoded = filteredLocations.filter((l) => l.geocodeStatus === "ok").length;
   const approx = filteredLocations.filter((l) => l.geocodeStatus === "approx").length;
   const failedLocations = filteredLocations.filter(
@@ -96,7 +94,7 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
           <LocationPanel
             location={selectedLocation}
             zonas={zonas}
-            topLocations={topLocations}
+            locations={filteredLocations}
             onSelect={(l) => setSelectedId(l.id)}
             onClose={() => setSelectedId(null)}
           />
