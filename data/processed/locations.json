@@ -10,9 +10,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONCALVES, 9500, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0744134,
+    "lng": -51.1156826,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Centro de Pesquisas em Sensoriamento Remoto e Meteorologia- UFRGS, 9500, Avenida Bento Gonçalves, Agronomia, Porto Alegre, Rio Grande do Sul, Região Sul, 91501-970, Brasil"
   },
   {
     "id": "113-edgar-luiz-schneider-escola-estadual",
@@ -25,9 +26,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ELIAS CIRNE LIMA, 100 - ESQ. AV. BENTO GONCALVES, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0635011,
+    "lng": -51.1595907,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Avenida Elias Cirne Lima, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-310, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-prof-alcides-cunha",
@@ -40,9 +42,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA HELIO PIMPAO, 52, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0400628,
+    "lng": -51.12306,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Professor Alcides Cunha, 52, Rua Hélio Pimpão, Jardim Alto Petrópolis, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91450-330, Brasil"
   },
   {
     "id": "159-pucrs-pontificia-universidade-catolica-predio-50",
@@ -55,9 +58,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. IPIRANGA, 6681 - PRÉDIO 50, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0443805,
+    "lng": -51.1990196,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Avenida Ipiranga, Santa Cecília, Porto Alegre, Rio Grande do Sul, Região Sul, 90610-240, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-min-salgado-filho",
@@ -70,9 +74,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DR. JOSE BENTO CORREA, 100 - JARDIM YPU, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0479668,
+    "lng": -51.135771,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Doutor José Bento Corrêa, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91450-140, Brasil"
   },
   {
     "id": "159-colegio-marista-champagnat",
@@ -85,9 +90,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONCALVES, 4314, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0600883,
+    "lng": -51.173132,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Marista Champagnat, 4314, Avenida Bento Gonçalves, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90650-001, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-inc-desiderio-torquato-finamor",
@@ -100,9 +106,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONCALVES, 7500, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0686389,
+    "lng": -51.1432798,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Desidério Torquato Finamor, 7500, Avenida Bento Gonçalves, Agronomia, Porto Alegre, Rio Grande do Sul, Região Sul, 91540-000, Brasil"
   },
   {
     "id": "112-escola-estadual-de-ensino-fundamental-japao",
@@ -115,9 +122,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ENRICO CARUSO, 444, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0321195,
+    "lng": -51.1420554,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Japão, 444, Rua Enrico Caruso, Jardim Sabará, Porto Alegre, Rio Grande do Sul, Região Sul, 91210-250, Brasil"
   },
   {
     "id": "158-santa-rosa-esc-est-de-ens-medio",
@@ -132,7 +140,7 @@
     "geocodeQuery": "AV. BERNARDINO DE OLIVEIRA PAIM, 665 - VILA SANTA ROSA, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "113-gema-angelina-belia-escola-estadual",
@@ -145,9 +153,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ANTONIO DE CARVALHO, 495, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0613321,
+    "lng": -51.1474113,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto Estadual Professora Gema Angelina Belia, 495, Avenida Antônio de Carvalho, Jardim das Bandeiras, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91430-001, Brasil"
   },
   {
     "id": "114-prof-oscar-pereira-esc-est-ens-med",
@@ -160,9 +169,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA FRANCISCO MARTINS, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0904736,
+    "lng": -51.1805984,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Francisco Martins, Vila 1º de Maio, Cascata, Porto Alegre, Rio Grande do Sul, Região Sul, 91712-150, Brasil"
   },
   {
     "id": "159-escola-estadual-rafaela-remiao",
@@ -175,9 +185,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTRADA JOÃO DE OLIVEIRA REMIÃO, 2689 - PAR. 06, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1372824,
+    "lng": -51.0938654,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Estrada João de Oliveira Remião, Jardim Outeiral, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 94470-971, Brasil"
   },
   {
     "id": "159-esc-mun-de-1-grau-afonso-guerreiro-lima",
@@ -190,9 +201,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GUAIBA, 203 - PARADA 11, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1125947,
+    "lng": -51.1122475,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Guaíba, Vila São Carlos, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
   },
   {
     "id": "113-santo-antonio-colegio",
@@ -205,9 +217,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA LUIZ DE CAMOES, 372, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0552472,
+    "lng": -51.2020738,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio La Salle Santo Antônio, 372, Rua Luiz de Camões, Santo Antônio, Porto Alegre, Rio Grande do Sul, Região Sul, 90620-150, Brasil"
   },
   {
     "id": "158-baltazar-de-oliveira-garcia-esc-est-de-ens-medio",
@@ -222,7 +235,7 @@
     "geocodeQuery": "RUA SGT. SILVIO DELMAR HOLLENBACH, 69, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "111-casa-do-pequeno-operario-dom-bosco",
@@ -237,7 +250,7 @@
     "geocodeQuery": "EDUARDO CHARTTIER N 360, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "158-instituto-de-educacao-sao-francisco",
@@ -250,9 +263,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BALTAZAR DE OLIVEIRA GARCIA, 4879, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0137743,
+    "lng": -51.0965457,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto de Educação São Francisco, 4879, Avenida Baltazar de Oliveira Garcia, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-003, Brasil"
   },
   {
     "id": "113-otavio-rocha-escola-estadual",
@@ -265,9 +279,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GUILHERME ALVES, 1900, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0632617,
+    "lng": -51.193266,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Otávio Rocha, 1900, Rua Guilherme Alves, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90680-000, Brasil"
   },
   {
     "id": "113-nossa-senhora-da-gloria-colegio",
@@ -280,9 +295,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PROF. OSCAR PEREIRA, 3052, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0766674,
+    "lng": -51.1994103,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Nossa Senhora da Glória, 3052, Avenida Professor Oscar Pereira, Glória, Porto Alegre, Rio Grande do Sul, Região Sul, 91710-000, Brasil"
   },
   {
     "id": "112-instituto-educacional-sao-judas-tadeu",
@@ -295,9 +311,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DOM DIOGO DE SOUZA, 100, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0115625,
+    "lng": -51.1546818,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio São Judas Tadeu, 100, Rua Dom Diogo de Souza, Cristo Redentor, Porto Alegre, Rio Grande do Sul, Região Sul, 91350-000, Brasil"
   },
   {
     "id": "112-colegio-santa-doroteia",
@@ -310,9 +327,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MALI, 405, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0144953,
+    "lng": -51.1495107,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Santa Dorotéia, 405, Rua Mali, Vila Ipiranga, Porto Alegre, Rio Grande do Sul, Região Sul, 91370-230, Brasil"
   },
   {
     "id": "2-colegio-nossa-senhora-do-bom-conselho",
@@ -325,9 +343,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA RAMIRO BARCELOS, 996, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0272913,
+    "lng": -51.2083916,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Nossa Senhora do Bom Conselho, 996, Rua Ramiro Barcelos, Moinhos de Vento, Porto Alegre, Rio Grande do Sul, Região Sul, 90035-001, Brasil"
   },
   {
     "id": "158-mariz-e-barros-esc-est-de-ens-medio",
@@ -342,7 +361,7 @@
     "geocodeQuery": "AV. DEL. ELY CORREA PRADO, 915 - VILA SAFIRA, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "112-itamarati-esc-est-de-ens-fundamental",
@@ -355,9 +374,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. FRANCISCO RODOLFO SIMCH, 617 - PASSO DA MANGUEIRA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0068349,
+    "lng": -51.1331885,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Avenida Engenheiro Francisco Rodolfo Simch, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91130-480, Brasil"
   },
   {
     "id": "114-vera-cruz-esc-est-ens-fund",
@@ -370,9 +390,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA DONA LUIZA ROCCO, S/N - PROXIMO AV OSCAR PEREIRA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0733982,
+    "lng": -51.2038249,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Luiza Rocco, Glória, Porto Alegre, Rio Grande do Sul, Região Sul, 90870-050, Brasil"
   },
   {
     "id": "112-escola-sao-luiz-guanella",
@@ -385,9 +406,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV BENNO MENTZ, 1560, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0242761,
+    "lng": -51.1457806,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Guanella, 1560, Avenida Benno Mentz, Vila Ipiranga, Porto Alegre, Rio Grande do Sul, Região Sul, 91370-020, Brasil"
   },
   {
     "id": "159-esc-est-de-ensino-medio-agronomo-pedro-pereira",
@@ -400,9 +422,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONÇALVES, 8426, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0747727,
+    "lng": -51.1344917,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Estadual de Ensino Médio Agrônomo Pedro Pereira, 8426, Avenida Bento Gonçalves, Agronomia, Porto Alegre, Rio Grande do Sul, Região Sul, 91509-900, Brasil"
   },
   {
     "id": "112-escola-estadual-dom-diogo-de-souza",
@@ -415,9 +438,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ADÃO BAINO, 206, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0123905,
+    "lng": -51.1554979,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Dom Diogo de Souza, 206, Rua Adão Baino, Cristo Redentor, Porto Alegre, Rio Grande do Sul, Região Sul, 91350-240, Brasil"
   },
   {
     "id": "159-esc-mun-de-1-grau-heitor-villa-lobos-ciem",
@@ -432,7 +456,7 @@
     "geocodeQuery": "RUA SANTO DIAS DA SILVA, S/N - VILA MAPA - PARADA 4, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "113-prof-leopoldo-tietbohl-escola-estadual",
@@ -445,9 +469,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA RIVEIRA, 400, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0472018,
+    "lng": -51.1881927,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Leopoldo Tietböhl, 400, Rua Riveira, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90670-160, Brasil"
   },
   {
     "id": "113-mauricio-sirotsky-sobrinho-escola-estadual",
@@ -460,9 +485,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PADRE CALDAS, 59, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0576058,
+    "lng": -51.1932488,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "59, Rua Padre Caldas, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90620-280, Brasil"
   },
   {
     "id": "113-padre-balduino-rambo-escola-estadual",
@@ -475,9 +501,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA HUMBERTO DE CAMPOS, 130, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0592694,
+    "lng": -51.1953258,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Padre Balduíno Rambo, 130, Rua Humberto de Campos, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90660-280, Brasil"
   },
   {
     "id": "113-antao-de-faria-escola-estadual",
@@ -490,9 +517,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BOM JESUS, 505, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0439703,
+    "lng": -51.152358,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Antão de Faria, 505, Rua Bom Jesus, Bom Jesus, Porto Alegre, Rio Grande do Sul, Região Sul, 91430-003, Brasil"
   },
   {
     "id": "158-governador-ildo-meneghetti-esc-municipal-de-ens-fundamental",
@@ -505,9 +533,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JAYME CYRINO MACHADO DE OLIVEIRA, 250, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9928766,
+    "lng": -51.1055714,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Jayme Cyrino Machado de Oliveira, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-060, Brasil"
   },
   {
     "id": "113-gen-iba-ilha-moreira-escola-estadual",
@@ -520,9 +549,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA UM, S/N - CEFER I, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9901216,
+    "lng": -51.2675929,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua 1, Arquipélago, Porto Alegre, Rio Grande do Sul, Região Sul, 90090-040, Brasil"
   },
   {
     "id": "111-esc-estadual-de-ensino-fund-e-medio-mons-leopoldo-hoff",
@@ -535,9 +565,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MOEMA, 255, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0379627,
+    "lng": -51.1633562,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Monsenhor Leopoldo Hoff, 255, Rua Moema, Chácara das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91330-500, Brasil"
   },
   {
     "id": "114-anita-garibaldi-esc-est-ens-fund-inc",
@@ -552,7 +583,7 @@
     "geocodeQuery": "AV. SAO JOSE DO NORTE, S/N, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-colegio-marista-nossa-senhora-do-rosario",
@@ -565,9 +596,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "PRACA DOM SEBASTIAO, 02, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0299713,
+    "lng": -51.2185969,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Praça Dom Sebastião, Independência, Porto Alegre, Rio Grande do Sul, Região Sul, 90035-080, Brasil"
   },
   {
     "id": "113-esef-escola-superior-de-educacao-fisica",
@@ -580,9 +612,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FELIZARDO, 750, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0491638,
+    "lng": -51.1893596,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Felizardo, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90670-160, Brasil"
   },
   {
     "id": "111-pan-american-school-antigo-colegio-vera-cruz",
@@ -595,9 +628,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "JOAO OBINO N 110, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0338353,
+    "lng": -51.1810931,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida João Obino, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90470-150, Brasil"
   },
   {
     "id": "112-escola-de-ensino-fundamental-e-medio-jose-cesar-mesquita",
@@ -610,9 +644,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. DO FORTE, 77, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0114917,
+    "lng": -51.1538766,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Técnica José César de Mesquita, 77, Avenida do Forte, Cristo Redentor, Porto Alegre, Rio Grande do Sul, Região Sul, 91360-000, Brasil"
   },
   {
     "id": "159-colegio-sao-jose-do-murialdo",
@@ -625,9 +660,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA VIDAL DE NEGREIROS, 423, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0655112,
+    "lng": -51.1685874,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola São José de Murialdo, 423, Rua Vidal de Negreiros, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-480, Brasil"
   },
   {
     "id": "112-colegio-sinodal-do-salvador",
@@ -640,9 +676,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. MATHILDE TREIN RENNER, 55, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.013603,
+    "lng": -51.1471155,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Sinodal do Salvador, 55, Avenida Mathilde Trein Renner, Vila Ipiranga, Porto Alegre, Rio Grande do Sul, Região Sul, 91370-050, Brasil"
   },
   {
     "id": "112-colegio-romano-senhor-bom-jesus",
@@ -657,7 +694,7 @@
     "geocodeQuery": "RUA IRMÃO INOCÊNCIO LUIZ, 21, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-colegio-leonardo-da-vinci-alfa",
@@ -670,9 +707,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CABRAL, 555, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.03456,
+    "lng": -51.2027865,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Leonardo da Vinci Unidade Alfa, 555, Rua Cabral, Rio Branco, Porto Alegre, Rio Grande do Sul, Região Sul, 90420-121, Brasil"
   },
   {
     "id": "158-joao-antonio-satte-esc-municipal-de-ens-fundamental",
@@ -685,9 +723,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. GAMAL ABDEL NASSER, 500 - PARQUE DOS MAIAS, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9994495,
+    "lng": -51.0956644,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Gamal Abdel Nasser, Parque dos Maias, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91170-100, Brasil"
   },
   {
     "id": "159-esc-est-de-ensino-fundamental-onofre-pires",
@@ -700,9 +739,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "BECO DO DAVID, 269 - PARADA 1A, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.098385,
+    "lng": -51.1449609,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Beco do David, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91550-550, Brasil"
   },
   {
     "id": "158-david-canabarro-esc-est-de-ens-fundamental",
@@ -715,9 +755,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA LYDIA MOSCHETTI, 200 - JARDIM LEOPOLDINA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0171634,
+    "lng": -51.1169165,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola David Canabarro, 200, Rua Lydia Moschetti, Jardim Leopoldina, Porto Alegre, Rio Grande do Sul, Região Sul, 91240-100, Brasil"
   },
   {
     "id": "112-escola-estadual-de-ensino-fundamental-toyama",
@@ -730,9 +771,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ACESSO TOYAMA, 1, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0371187,
+    "lng": -51.143323,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Acesso Toyama, Jardim Sabará, Porto Alegre, Rio Grande do Sul, Região Sul, 91215-380, Brasil"
   },
   {
     "id": "111-instituto-piratini",
@@ -745,9 +787,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "EUDORO BERLINK N 632, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0248484,
+    "lng": -51.1972491,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Eudoro Berlink, Moinhos de Vento, Porto Alegre, Rio Grande do Sul, Região Sul, 90440-050, Brasil"
   },
   {
     "id": "158-min-poty-medeiros-esc-est-de-ens-fundamental",
@@ -760,9 +803,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA VICENTE CELESTINO, 120 - PARQUE DOS MAIAS, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0079248,
+    "lng": -51.0956069,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Ministro Poty Medeiros, 120, Rua Vicente Celestino, Parque dos Maias, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-130, Brasil"
   },
   {
     "id": "111-anchieta-colegio",
@@ -775,9 +819,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AVENIDA NILO PEÇANHA N 1521, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.02803,
+    "lng": -51.1629553,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Nilo Peçanha, Jardim Europa, Porto Alegre, Rio Grande do Sul, Região Sul, 91340-001, Brasil"
   },
   {
     "id": "159-esc-est-de-ensino-fundamental-maria-cristina-chika",
@@ -790,9 +835,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. JOAO DE OLIVEIRA REMIAO, 6505 - PARADA 16, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1123592,
+    "lng": -51.1098033,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Estrada João de Oliveira Remião, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
   },
   {
     "id": "161-emef-moradas-da-hipica",
@@ -805,9 +851,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA GERALDO TOLLENS LINCK, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1586146,
+    "lng": -51.1771,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Geraldo Tollens Linck, Condominio Encosta do Cerro, Hípica, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-214, Brasil"
   },
   {
     "id": "1-escola-estadual-presidente-roosevelt",
@@ -820,9 +867,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BOTAFOGO, 396, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0535753,
+    "lng": -51.2264199,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Presidente Roosevelt, 396, Rua Botafogo, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90150-051, Brasil"
   },
   {
     "id": "113-fernando-gomes-escola-estadual",
@@ -835,9 +883,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PROF. FREDERICO GUILHERME GAELZER, 168, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.048265,
+    "lng": -51.1692863,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Fernando Gomes, 168, Rua Professor Frederico Guilherme Gaelzer, Jardim do Salso, Porto Alegre, Rio Grande do Sul, Região Sul, 91410-140, Brasil"
   },
   {
     "id": "159-esc-mun-de-1-grau-sao-pedro",
@@ -850,9 +899,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "BECO DA TAQUARA, S/N - VILA SAO PEDRO - PARADA 13, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1057061,
+    "lng": -51.1110734,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Por-do-Sol, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-inc-jeronimo-de-albuquerque",
@@ -865,9 +915,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JUAREZ TAVORA, 550, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0676715,
+    "lng": -51.1738792,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Jerônimo de Albuquerque, 550, Rua Juarez Távora, Vila João Pessoa, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-100, Brasil"
   },
   {
     "id": "112-escola-est-de-ens-medio-republica-argentina",
@@ -880,9 +931,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BOGOTÁ, 789, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0027966,
+    "lng": -51.1487328,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola República Argentina, 789, Avenida Bogotá, Jardim Lindóia, Porto Alegre, Rio Grande do Sul, Região Sul, 91060-000, Brasil"
   },
   {
     "id": "158-decio-martins-costa-e-m-e-f-santo-agostinho",
@@ -895,9 +947,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CRISTÓVÃO JAQUES, 488 - VILA SANTO AGOSTINHO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9892301,
+    "lng": -51.107065,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Municipal Décio Martins Costa, 488, Rua Cristóvão Jaques, Vila Santo Agostinho, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91140-420, Brasil"
   },
   {
     "id": "111-ceasa-porto-alegre",
@@ -910,9 +963,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. FERNANDO FERRARI, 1001, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9733727,
+    "lng": -51.161227,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Fernando Ferrari, Porto Alegre, Rio Grande do Sul, Região Sul, 90200-230, Brasil"
   },
   {
     "id": "113-nossa-senhora-de-fatima-escola-municipal",
@@ -925,9 +979,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA A, 15 - VILA NOSSA SENHORA DE FATIMA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0468649,
+    "lng": -51.1580326,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Nossa Senhora de Fátima, 15, Rua A Vila Nossa Senhora de Fátima, Vila Divinéia, Bom Jesus, Porto Alegre, Rio Grande do Sul, Região Sul, 91420-701, Brasil"
   },
   {
     "id": "113-santa-ines-colegio",
@@ -940,9 +995,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV PROTASIO ALVES, 2493, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0442094,
+    "lng": -51.1843579,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Santa Inês, 2493, Avenida Protásio Alves, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90410-002, Brasil"
   },
   {
     "id": "112-escola-de-ensino-fundamental-e-medio-ruben-berta",
@@ -955,9 +1011,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. SATURNINO DE BRITO, 1400, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0302155,
+    "lng": -51.1513149,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Ruben Berta, 1400, Avenida Saturnino de Brito, Vila Jardim, Porto Alegre, Rio Grande do Sul, Região Sul, 91320-001, Brasil"
   },
   {
     "id": "111-escola-de-ensino-fundamental-prudente-de-morais",
@@ -972,7 +1029,7 @@
     "geocodeQuery": "RUA PRUDENTE DE MORAIS, 57, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "112-colegio-estadual-prof-elmano-lauffer-leal",
@@ -985,9 +1042,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA TENENTE ARY TARRAGÔ, 3345, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.01228,
+    "lng": -51.1316786,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Estadual Professor Elmano Lauffer Leal, 3345, Rua Tenente Ary Tarragô, Jardim Itu, Porto Alegre, Rio Grande do Sul, Região Sul, 91225-002, Brasil"
   },
   {
     "id": "114-assuncao-colegio-marista",
@@ -1000,9 +1058,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DOM BOSCO, 103, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0751522,
+    "lng": -51.2028271,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Dom Bosco, Glória, Porto Alegre, Rio Grande do Sul, Região Sul, 90680-580, Brasil"
   },
   {
     "id": "2-associacao-leopoldina-juvenil",
@@ -1015,9 +1074,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MARQUES DO HERVAL, 280, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0212202,
+    "lng": -51.1985592,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Marquês do Herval, Moinhos de Vento, Porto Alegre, Rio Grande do Sul, Região Sul, 90540-001, Brasil"
   },
   {
     "id": "113-padre-rambo-escola-estadual",
@@ -1030,9 +1090,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONCALVES, 1731, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.057356,
+    "lng": -51.1973513,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Padre Rambo, 1731, Avenida Bento Gonçalves, Santo Antônio, Porto Alegre, Rio Grande do Sul, Região Sul, 90620-002, Brasil"
   },
   {
     "id": "114-emilio-meyer-esc-munic",
@@ -1045,9 +1106,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV NITEROI, 472, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0686344,
+    "lng": -51.2084421,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Emílio Meyer, 472, Avenida Niterói, Medianeira, Porto Alegre, Rio Grande do Sul, Região Sul, 90880-270, Brasil"
   },
   {
     "id": "112-escola-estadual-ensino-basico-gomes-carneiro",
@@ -1060,9 +1122,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "PRAÇA ENGENHEIRO PAULO DE ARAGÃO BOZANO, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.022223,
+    "lng": -51.1533127,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Praça Engenheiro Paulo de Aragão Bozano, Vila Ipiranga, Porto Alegre, Rio Grande do Sul, Região Sul, 91360-160, Brasil"
   },
   {
     "id": "113-coelho-neto-escola-estadual",
@@ -1075,9 +1138,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ALEXANDRE HERCULANO, 11, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0444421,
+    "lng": -51.1637334,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Coelho Neto, 11, Rua Alexandre Herculano, Bom Jesus, Porto Alegre, Rio Grande do Sul, Região Sul, 91420-360, Brasil"
   },
   {
     "id": "112-lindoia-tenis-clube",
@@ -1092,7 +1156,7 @@
     "geocodeQuery": "RUA COMANDANTE GUSTAVO CRAMER, 90, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "111-secretaria-municipal-do-meio-ambiente",
@@ -1105,9 +1169,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AVENIDA CARLOS GOMES N 2120, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0256385,
+    "lng": -51.1828111,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Carlos Gomes, Montserrat, Porto Alegre, Rio Grande do Sul, Região Sul, 90480-002, Brasil"
   },
   {
     "id": "112-escola-de-ensino-fundamental-e-medio-italia",
@@ -1122,7 +1187,7 @@
     "geocodeQuery": "AV. PROFESSOR PAULA SOARES, 1095, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "114-pastor-dohms-centro-de-ensino-medio",
@@ -1135,9 +1200,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ARNALDO BOHRER, 253, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0827211,
+    "lng": -51.2042113,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Arnaldo Bohrer, Vila Jardim Marabá, Teresópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 91720-130, Brasil"
   },
   {
     "id": "111-carlos-rodrigues-da-silva-escola-estadual",
@@ -1152,7 +1218,7 @@
     "geocodeQuery": "IBIRAPUITA N 65 VILA SESI, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-instituto-metodista-de-educacao-e-cultura",
@@ -1165,9 +1231,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA LAURO DE OLIVEIRA, 71, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0367839,
+    "lng": -51.2004174,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Metodista Americano, 71, Rua Doutor Lauro de Oliveira, Rio Branco, Porto Alegre, Rio Grande do Sul, Região Sul, 90420-210, Brasil"
   },
   {
     "id": "111-visconde-de-pelotas-e-e-de-1-grau",
@@ -1180,9 +1247,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ARTUR ROCHA, 200, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0248199,
+    "lng": -51.1884116,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Visconde de Pelotas, 200, Rua Artur Rocha, Montserrat, Porto Alegre, Rio Grande do Sul, Região Sul, 90450-170, Brasil"
   },
   {
     "id": "112-prof-marieta-da-cunha-silva-esc-est-de-ens-fundamental",
@@ -1195,9 +1263,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PAULO MADUREIRA COELHO, 165 - VILA PETROPOLIS, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0401254,
+    "lng": -51.134758,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Paulo Madureira Coelho, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91310-040, Brasil"
   },
   {
     "id": "159-escola-de-1-grau-nossa-senhora-do-brasil",
@@ -1210,9 +1279,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ALARICO VALENCA, 161, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0648158,
+    "lng": -51.1751076,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Alarico Valença, Vila João Pessoa, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-010, Brasil"
   },
   {
     "id": "2-escola-estadual-apeles-porto-alegre",
@@ -1225,9 +1295,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SAO MANOEL, 1981, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0511684,
+    "lng": -51.2006596,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Apeles Porto Alegre, 1981, Rua São Manoel, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90620-110, Brasil"
   },
   {
     "id": "111-sao-joao-colegio",
@@ -1240,9 +1311,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "HONORIO SILVEIRA DIAS N 645, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0195107,
+    "lng": -51.1849124,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Honório Silveira Dias, Higienópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90540-000, Brasil"
   },
   {
     "id": "2-colegio-batista",
@@ -1255,9 +1327,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CRISTOVAO COLOMBO, 1098, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0213341,
+    "lng": -51.2088689,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Batista, 1098, Avenida Cristóvão Colombo, Moinhos de Vento, Porto Alegre, Rio Grande do Sul, Região Sul, 90560-001, Brasil"
   },
   {
     "id": "159-puc-predio-11-secoes-eeef-dr-martins-costa-junior",
@@ -1270,9 +1343,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV.IPIRANGA, 6681, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0556688,
+    "lng": -51.175368,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "6681, Avenida Ipiranga, Jardim Botânico, Porto Alegre, Rio Grande do Sul, Região Sul, 90619-900, Brasil"
   },
   {
     "id": "112-lidia-moschetti-esc-est-de-ens-fundamental",
@@ -1285,9 +1359,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. SILVESTRE FELIX RODRIGUES, 1000, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0064878,
+    "lng": -51.1239317,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Silvestre Félix Rodrigues, Costa e Silva, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-401, Brasil"
   },
   {
     "id": "2-salao-paroquial-igreja-sao-sebastiao",
@@ -1300,9 +1375,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CAÇAPAVA, 251, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0424857,
+    "lng": -51.1814695,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Caçapava, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90460-160, Brasil"
   },
   {
     "id": "2-escola-estadual-ensino-medio-anne-frank",
@@ -1315,9 +1391,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CAUDURO, 238, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0328257,
+    "lng": -51.0988016,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua 2953, Vila Safira, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-095, Brasil"
   },
   {
     "id": "111-colegio-farroupilha",
@@ -1330,9 +1407,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CARLOS HUBER, 425, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0358041,
+    "lng": -51.1701653,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Farroupilha, 425, Rua Carlos Huber, Três Figueiras, Porto Alegre, Rio Grande do Sul, Região Sul, 91330-150, Brasil"
   },
   {
     "id": "2-escola-estadual-ens-fundamental-medianeira",
@@ -1345,9 +1423,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GENERAL GOMES CARNEIRO, 45, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0719433,
+    "lng": -51.2106882,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua General Gomes Carneiro, Teresópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90880-270, Brasil"
   },
   {
     "id": "114-universitario-colegio",
@@ -1360,9 +1439,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. TERESOPOLIS, 2805, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0782005,
+    "lng": -51.2091653,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Universitário, 2805, Avenida Teresópolis, Teresópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90870-001, Brasil"
   },
   {
     "id": "1-escola-estadual-duque-de-caxias",
@@ -1375,9 +1455,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GENERAL CALDWELL, 1175, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0519085,
+    "lng": -51.2157972,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Duque de Caxias, 1175, Rua General Caldwell, Vila Cabo Rocha, Azenha, Porto Alegre, Rio Grande do Sul, Região Sul, 90130-051, Brasil"
   },
   {
     "id": "160-e-m-vila-montecristo",
@@ -1390,9 +1471,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "BECO CARLOS SUPERTI, 84, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1250538,
+    "lng": -51.2171704,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Beco Carlos Superti, Vila Monte Cristo, Vila Nova, Porto Alegre, Rio Grande do Sul, Região Sul, 91750-020, Brasil"
   },
   {
     "id": "113-gremio-nautico-uniao-sede-petropole-tenis-clube",
@@ -1405,9 +1487,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA REIS LOUZADA, 166 (GINASIO), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.048327,
+    "lng": -51.1922035,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Reis Louzada, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90670-020, Brasil"
   },
   {
     "id": "113-prof-lea-rosa-cecchini-brum-escola-estadual",
@@ -1422,7 +1505,7 @@
     "geocodeQuery": "RUA JOSÉ ALBANO WOLKMER, 347 (ESQ RUA MARTA COSTA FRANZEN), Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "160-sociedade-educacional-leonardo-da-vinci-beta",
@@ -1435,9 +1518,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ICARAI, 1879, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0948443,
+    "lng": -51.2456762,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Leonardo da Vinci - Unidade Beta, 1879, Avenida Icaraí, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 90810-000, Brasil"
   },
   {
     "id": "2-colegio-estadual-julio-de-castilhos",
@@ -1450,9 +1534,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PIRATINI, 76, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0441928,
+    "lng": -51.212464,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Estadual Júlio de Castilhos, 76, Avenida Piratini, Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-001, Brasil"
   },
   {
     "id": "111-instituto-sao-francisco-pallotti",
@@ -1465,9 +1550,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "TUPI N 212, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0110044,
+    "lng": -51.1709283,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Tupi, Vila do IAPI, Passo da Areia, Porto Alegre, Rio Grande do Sul, Região Sul, 91030-000, Brasil"
   },
   {
     "id": "161-cesi-zona-sul",
@@ -1480,9 +1566,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JUCA BATISTA, 4770, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.159729,
+    "lng": -51.1877604,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Cesi Zona Sul, 4770, Avenida Juca Batista, Hípica, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-070, Brasil"
   },
   {
     "id": "158-dep-victor-issler-esc-municipal-de-ens-fundamental",
@@ -1495,9 +1582,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DEZENOVE DE FEVEREIRO, 330 - CHACARA DA FUMACA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0318913,
+    "lng": -51.1160034,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua 19 de Fevereiro, Vila Chácara da Fumaça I, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91270-315, Brasil"
   },
   {
     "id": "111-esc-estadual-de-ensino-fund-e-medio-sarmento-leite",
@@ -1510,9 +1598,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA EUGÊNIO DU PASQUIER, 115, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0050209,
+    "lng": -51.1618721,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Eugênio du Pasquier, Cristo Redentor, Porto Alegre, Rio Grande do Sul, Região Sul, 91010-004, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-araujo-viana",
@@ -1525,9 +1614,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA NOVE DE JUNHO, 542, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0669578,
+    "lng": -51.161787,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Araújo Viana, 542, Rua 9 de Junho, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-610, Brasil"
   },
   {
     "id": "112-escola-estadual-de-ensino-fundamental-ana-neri",
@@ -1540,9 +1630,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOAQUIM SILVEIRA, 730, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0031166,
+    "lng": -51.1424242,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Joaquim Silveira, São Sebastião, Porto Alegre, Rio Grande do Sul, Região Sul, 91060-320, Brasil"
   },
   {
     "id": "2-escola-estadual-brasilia",
@@ -1555,9 +1646,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DONA MARGARIDA, 1199, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9985002,
+    "lng": -51.1996189,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Dona Margarida, Navegantes, Porto Alegre, Rio Grande do Sul, Região Sul, 90220-003, Brasil"
   },
   {
     "id": "159-esc-mun-de-1-grau-inc-saint-hilaire",
@@ -1570,9 +1662,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GERVAZIO BRAGA PINHEIRO, 427 - VILA PANORAMA - PARADA 18, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.121447,
+    "lng": -51.0989,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Gervázio Braga Pinheiro, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91570-490, Brasil"
   },
   {
     "id": "111-sociedade-ginastica-porto-alegre",
@@ -1585,9 +1678,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "BARAO DE COTEGIPE N 415, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.009652,
+    "lng": -51.1894872,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Barão de Cotegipe, São João, Porto Alegre, Rio Grande do Sul, Região Sul, 90550-140, Brasil"
   },
   {
     "id": "159-faculdade-de-direito-pucrs-predio-11",
@@ -1600,9 +1694,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. IPIRANGA, 6681 - PRÉDIO 11, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0443805,
+    "lng": -51.1990196,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Avenida Ipiranga, Santa Cecília, Porto Alegre, Rio Grande do Sul, Região Sul, 90610-240, Brasil"
   },
   {
     "id": "1-colegio-bom-jesus-sevigne",
@@ -1615,9 +1710,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DUQUE DE CAXIAS,1443, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0336324,
+    "lng": -51.2279313,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Duque de Caxias, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-241, Brasil"
   },
   {
     "id": "2-instituto-estadual-rio-branco",
@@ -1630,9 +1726,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PROTASIO ALVES, 999, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0404431,
+    "lng": -51.1985536,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto Rio Branco, 999, Avenida Protásio Alves, Rio Branco, Porto Alegre, Rio Grande do Sul, Região Sul, 90410-000, Brasil"
   },
   {
     "id": "1-colegio-la-salle-dores",
@@ -1645,9 +1742,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA RIACHUELO, 800, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0320616,
+    "lng": -51.2337028,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio La Salle Dores, 800, Rua Riachuelo, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-272, Brasil"
   },
   {
     "id": "2-colegio-israelita-brasileiro",
@@ -1660,9 +1758,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PROTASIO ALVES, 943, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0401262,
+    "lng": -51.1992704,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Israelita Brasileiro, 943, Avenida Protásio Alves, Santa Cecília, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-000, Brasil"
   },
   {
     "id": "112-escola-municipal-pepita-de-leao",
@@ -1675,9 +1774,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ESTADIO, 29, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0155024,
+    "lng": -51.1281887,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Pepita de Leão, 29, Rua Estádio, Passo das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91230-030, Brasil"
   },
   {
     "id": "112-presidente-vargas-esc-municipal-de-ens-fundamental",
@@ -1690,9 +1790,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ANA AURORA DO AMARAL LISBOA, 60, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.016539,
+    "lng": -51.1271307,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Presidente Vargas, 60, Rua Ana Aurora do Amaral Lisboa, Passo das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91230-000, Brasil"
   },
   {
     "id": "114-maria-imaculada-colegio",
@@ -1705,9 +1806,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV PADRE CACIQUE, 1028, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0677002,
+    "lng": -51.2352227,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Maria Imaculada, 1028, Avenida Padre Cacique, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90840-690, Brasil"
   },
   {
     "id": "160-associacao-de-ensino-santa-teresa-de-jesus",
@@ -1720,9 +1822,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CAVALHADA, 2250, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0986056,
+    "lng": -51.2300359,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Santa Teresa de Jesus, 2250, Avenida da Cavalhada, Parque Madepinho, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 91740-000, Brasil"
   },
   {
     "id": "111-goncalves-dias-escola-estadual",
@@ -1735,9 +1838,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "CANDIOTA 145, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1504887,
+    "lng": -51.2119364,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Professor Othon Santos Silva, Espírito Santo, Porto Alegre, Rio Grande do Sul, Região Sul, 91751-530, Brasil"
   },
   {
     "id": "113-erico-verissimo-escola-estadual",
@@ -1752,7 +1856,7 @@
     "geocodeQuery": "RUA COM. EDUARDO SECCO, S/N - IPE I, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "113-dom-pedro-i-escola-estadual",
@@ -1765,9 +1869,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PEDRO BOTICARIO, 654, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0742737,
+    "lng": -51.198547,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Dom Pedro I, 654, Rua Pedro Boticário, Glória, Porto Alegre, Rio Grande do Sul, Região Sul, 90660-070, Brasil"
   },
   {
     "id": "113-prof-otavio-de-souza-escola-estadual",
@@ -1780,9 +1885,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA AFONSO RODRIGUES, 100, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0527865,
+    "lng": -51.1861074,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Estadual Professor Otávio de Souza, 100, Rua Afonso Rodrigues, Jardim Botânico, Porto Alegre, Rio Grande do Sul, Região Sul, 90690-170, Brasil"
   },
   {
     "id": "111-florinda-tubino-sampaio-escola-estadual",
@@ -1795,9 +1901,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AVENIDA MONTENEGRO N 269, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.041135,
+    "lng": -51.181266,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Montenegro, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90460-160, Brasil"
   },
   {
     "id": "161-eeef-solimoes",
@@ -1812,7 +1919,7 @@
     "geocodeQuery": "ESTR. DAS QUIRINAS, PRÓX. PDA. 27, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "112-clube-comercial-sarandi",
@@ -1825,9 +1932,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. SALVADOR LEAO, 277 - VILA LEAO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9984015,
+    "lng": -51.1247453,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Avenida Salvador Leão, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91130-520, Brasil"
   },
   {
     "id": "112-pres-arthur-da-costa-e-silva-colegio-est-de-ens-medio",
@@ -1840,9 +1948,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BADEN POWELL, 409 - PARQUE MINUANO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0027336,
+    "lng": -51.1383117,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Baden Powell, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91110-000, Brasil"
   },
   {
     "id": "114-prof-elpidio-ferreira-paes-esc-est",
@@ -1855,9 +1964,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA INHANDUÍ, 432, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0874425,
+    "lng": -51.2376598,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Elpídio Ferreira Paes, 432, Rua Inhanduí, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 90820-170, Brasil"
   },
   {
     "id": "114-jose-loureiro-da-silva-esc-munic",
@@ -1870,9 +1980,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CAPIVARI, 1999, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.082772,
+    "lng": -51.2326255,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola José Loureiro da Silva, 1999, Avenida Capivari, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 90810-070, Brasil"
   },
   {
     "id": "2-escola-estadual-uruguai",
@@ -1885,9 +1996,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "TRAVESSA ANGUSTURA, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0272505,
+    "lng": -51.1968036,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Travessa Angustura, Moinhos de Vento, Porto Alegre, Rio Grande do Sul, Região Sul, 90440-030, Brasil"
   },
   {
     "id": "111-bahia-e-e-e-f",
@@ -1902,7 +2014,7 @@
     "geocodeQuery": "RUA ANGELITO ASMUZ AIQUEL,125, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "114-venezuela-esc-est-ens-fund",
@@ -1917,7 +2029,7 @@
     "geocodeQuery": "AV NITEROI - ESQUINA TRAV. VIAMAO, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "1-trt-tribunal-regional-do-trabalho",
@@ -1930,9 +2042,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PRAIA DE BELAS, 1100, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0487651,
+    "lng": -51.2273108,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Tribunal Regional do Trabalho, 1100, Avenida Praia de Belas, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90110-903, Brasil"
   },
   {
     "id": "111-pastor-dohms-ginasio-evangelico",
@@ -1945,9 +2058,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AMÉRICO VESPÚCIO, 483, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0128028,
+    "lng": -51.1873578,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Centro de Ensino Pastor Dohms Higienópolis, 483, Rua Américo Vespúcio, Higienópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90550-031, Brasil"
   },
   {
     "id": "160-colegio-estadual-conego-paulo-de-nadal",
@@ -1960,9 +2074,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FAMÍLIA GONÇALVES CARNEIRO, 105, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1146584,
+    "lng": -51.2270026,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Família Gonçalves Carneiro, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 90740-001, Brasil"
   },
   {
     "id": "161-ce-engenheiro-ildo-meneghetti",
@@ -1975,9 +2090,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA EUGÊNIO RODRIGUES, 4919 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1545154,
+    "lng": -51.1457852,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Eugênio Rodrigues, Vila Nova Restinga, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-060, Brasil"
   },
   {
     "id": "114-parana-esc-est-ens-fund",
@@ -1990,9 +2106,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV TAQUARY, 395, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.074337,
+    "lng": -51.2414598,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Taquari, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 90810-180, Brasil"
   },
   {
     "id": "158-escola-adventista-sarandi",
@@ -2005,9 +2122,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PASSOS FIGUEIROA, 841, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9913382,
+    "lng": -51.1338754,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Passos Figueiroa, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91110-440, Brasil"
   },
   {
     "id": "158-centro-de-ensino-medio-pastor-dohms-unidade-zona-norte",
@@ -2020,9 +2138,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. IRENE RUPERTI, 25, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0141044,
+    "lng": -51.1090308,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Irene Ruperti, Parque Santa Fé, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-490, Brasil"
   },
   {
     "id": "2-escola-estadual-daltro-filho",
@@ -2035,9 +2154,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. AMÉRICA, 145, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0191119,
+    "lng": -51.1961416,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola General Daltro Filho, 145, Avenida América, Auxiliadora, Porto Alegre, Rio Grande do Sul, Região Sul, 90440-020, Brasil"
   },
   {
     "id": "160-instituto-santa-luzia",
@@ -2050,9 +2170,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CAVALHADA, 3999, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1117872,
+    "lng": -51.2283777,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto Santa Luzia, 3999, Avenida da Cavalhada, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 90740-001, Brasil"
   },
   {
     "id": "113-aldo-locatelli-escola-estadual",
@@ -2065,9 +2186,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA THOMAZ FRANCISCO DE JESUS, S/N - VILA BRASILIA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0500104,
+    "lng": -51.1463645,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Tomaz Francisco de Jesus, Vila Brasília, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91430-750, Brasil"
   },
   {
     "id": "1-tribunal-de-justica-do-rs-palacio",
@@ -2080,9 +2202,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "PRACA DA MATRIZ, 55, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0328553,
+    "lng": -51.2301234,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Praça Marechal Deodoro, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, Brasil"
   },
   {
     "id": "2-escola-estadual-sao-francisco-de-assis",
@@ -2095,9 +2218,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PRINCESA ISABEL, 1160, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0443734,
+    "lng": -51.2021242,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola São Francisco de Assis, 1160, Avenida Princesa Isabel, Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 90620-000, Brasil"
   },
   {
     "id": "1-escola-sao-francisco-menino-deus",
@@ -2110,9 +2234,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "PRACA MENINO DEUS, 77, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0613661,
+    "lng": -51.2233341,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Menino Deus, 77, Praça Menino Deus, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90850-180, Brasil"
   },
   {
     "id": "112-colegio-kennedy",
@@ -2127,7 +2252,7 @@
     "geocodeQuery": "AV. ALCIDES SÃO SEVERINO, 99, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "114-alberto-torres-esc-est-ens-med",
@@ -2140,9 +2265,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. RODRIGUES DA FONSECA, 1666, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1156332,
+    "lng": -51.21,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Alberto Torres, 1666, Avenida Rodrigues da Fonseca, Vila Nova, Porto Alegre, Rio Grande do Sul, Região Sul, 91740-800, Brasil"
   },
   {
     "id": "114-dr-pacheco-prates-esc-est-ens-fund",
@@ -2155,9 +2281,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "PRACA NOSSA SENHORA DE BELÉM, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.116488,
+    "lng": -51.1793358,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Praça Nossa Senhora de Belém, Belém Velho, Porto Alegre, Rio Grande do Sul, Região Sul, 91712-240, Brasil"
   },
   {
     "id": "114-dr-victor-de-britto-esc-est-ens-fund",
@@ -2170,9 +2297,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SEBASTIÃO WOLF, 231, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0900074,
+    "lng": -51.2147177,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Doutor Victor de Britto, 231, Rua Sebastião Wolf, Nonoai, Porto Alegre, Rio Grande do Sul, Região Sul, 91720-540, Brasil"
   },
   {
     "id": "159-paulo-da-gama-escola-estadual",
@@ -2185,9 +2313,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SILVADO, 555, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0695301,
+    "lng": -51.1854187,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Paulo da Gama, 555, Rua Silvado, Coronel Aparício Borges, Porto Alegre, Rio Grande do Sul, Região Sul, 91510-100, Brasil"
   },
   {
     "id": "161-eeef-araguaia",
@@ -2200,9 +2329,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. GEDEON LEITE, 780, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1538022,
+    "lng": -51.1828678,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Araguaia, 780, Estrada Gedeon Leite, Condominio Encosta do Cerro, Hípica, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-770, Brasil"
   },
   {
     "id": "158-araujo-porto-alegre-esc-est-de-ens-fundamental",
@@ -2215,9 +2345,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PANDIA CALOGERAS, 429 - VILA ELIZABETH, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.987974,
+    "lng": -51.1254278,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Pandiá Calógeras, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91140-340, Brasil"
   },
   {
     "id": "1-escola-estadual-rio-de-janeiro",
@@ -2230,9 +2361,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GENERAL LIMA E SILVA, 400, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.036554,
+    "lng": -51.2227286,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Rio de Janeiro, 400, Rua General Lima e Silva, Cidade Baixa, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-100, Brasil"
   },
   {
     "id": "112-escola-estadual-de-educacao-basica-dolores-alcaraz-caldas",
@@ -2247,7 +2379,7 @@
     "geocodeQuery": "RUA AFONSO CELSO PUPE DA SILVEIRA, 25, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-inss-unidade-reabilitacao-profissional",
@@ -2260,9 +2392,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONCALVES, 867, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0604519,
+    "lng": -51.1910729,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Bento Gonçalves, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90650-000, Brasil"
   },
   {
     "id": "113-prof-otavio-de-souza-escola-estadual-secoes-do-salao-paroqui",
@@ -2275,9 +2408,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA AFONSO RODRIGUES, 100, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0527865,
+    "lng": -51.1861074,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Estadual Professor Otávio de Souza, 100, Rua Afonso Rodrigues, Jardim Botânico, Porto Alegre, Rio Grande do Sul, Região Sul, 90690-170, Brasil"
   },
   {
     "id": "2-escola-estadual-gabriela-mistral",
@@ -2290,9 +2424,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CARLOS PESSOA DE BRUM, 150, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0573295,
+    "lng": -51.2063851,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Gabriela Mistral, 150, Rua Carlos Pessoa de Brum, Santo Antônio, Porto Alegre, Rio Grande do Sul, Região Sul, 90640-140, Brasil"
   },
   {
     "id": "158-julio-brunelli-esc-est-de-ens-fundamental",
@@ -2305,9 +2440,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FERNANDO CAMARANO, 220 - COHAB RUBEM BERTA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.019123,
+    "lng": -51.1049687,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Julio Brunelli, 220, Rua Fernando Camarano, Conjunto Habitacional Rubem Berta, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-460, Brasil"
   },
   {
     "id": "160-escola-estadual-roque-gonzales",
@@ -2320,9 +2456,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CAVALHADA, 2433, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.097939,
+    "lng": -51.2322043,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Roque Gonzales, 2433, Avenida da Cavalhada, Parque Madepinho, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 91740-001, Brasil"
   },
   {
     "id": "160-escola-estadual-tres-de-outubro",
@@ -2335,9 +2472,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "PRACA COMENDADOR SOUZA GOMES, 2560, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1110542,
+    "lng": -51.255558,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Praça Comendador Souza Gomes, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91920-520, Brasil"
   },
   {
     "id": "160-e-e-1-g-jardim-vila-nova",
@@ -2350,9 +2488,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FERNANDO PESSOA, 380, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1265779,
+    "lng": -51.2089801,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Jardim Vila Nova, 380, Rua Fernando Pessoa, Vila Nova, Porto Alegre, Rio Grande do Sul, Região Sul, 91750-340, Brasil"
   },
   {
     "id": "160-e-e-1-g-paraiba",
@@ -2365,9 +2504,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "R ADÃO PINHEIRO DA SILVA, 490, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1381778,
+    "lng": -51.216003,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Paraíba, 490, Rua Adão Pinheiro da Silva, Ipanema, Porto Alegre, Rio Grande do Sul, Região Sul, 91751-030, Brasil"
   },
   {
     "id": "161-emef-prof-anisio-teixeira",
@@ -2380,9 +2520,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FRANCISCO MATTOS TERRES, 40, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1594638,
+    "lng": -51.2002636,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Anísio Teixeira, 40, Rua Francisco Mattos Terres, Aberta dos Morros, Porto Alegre, Rio Grande do Sul, Região Sul, 91755-070, Brasil"
   },
   {
     "id": "2-nucleo-de-educacao-darcy-vargas",
@@ -2395,9 +2536,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOAO PESSOA, 1070, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0406525,
+    "lng": -51.2164099,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Núcleo Estadual de Educação de Jovens e Adultos e Cultura Popular Darcy Vargas, 1070, Avenida João Pessoa, Farroupilha, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-000, Brasil"
   },
   {
     "id": "158-padre-leo-esc-est-de-ens-fundamental",
@@ -2410,9 +2552,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA NOSSA SENHORA DE FATIMA, 195, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.014499,
+    "lng": -51.0965,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Padre Leo, 195, Rua Nossa Senhora de Fátima, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-003, Brasil"
   },
   {
     "id": "2-centro-municipal-de-educacao-trabalhadores-paulo-freire",
@@ -2425,9 +2568,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SANTA TERESINHA, 572, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0393236,
+    "lng": -51.2103566,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Santa Terezinha, Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-360, Brasil"
   },
   {
     "id": "2-clube-caixeiros-viajantes",
@@ -2440,9 +2584,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DONA LAURA, 646, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0287142,
+    "lng": -51.1983853,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Clube Caixeiros Viajantes, 646, Rua Dona Laura, Rio Branco, Porto Alegre, Rio Grande do Sul, Região Sul, 90430-090, Brasil"
   },
   {
     "id": "158-bento-goncalves-esc-est-de-ensino-fundamental",
@@ -2455,9 +2600,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JORGE FURTADO, 47 - VILA NOVA SANTA ROSA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9998885,
+    "lng": -51.1026497,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Jorge Furtado, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-680, Brasil"
   },
   {
     "id": "159-esc-est-dr-oscar-tollens",
@@ -2470,9 +2616,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA VIDAL DE NEGREIROS, 432, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0655123,
+    "lng": -51.1675732,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Oscar Tollens, 432, Rua Vidal de Negreiros, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-480, Brasil"
   },
   {
     "id": "160-escola-adventista-de-porto-alegre",
@@ -2485,9 +2632,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. OTTO NIEMEYER, 2124, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1041951,
+    "lng": -51.2382756,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "IASD Camaquã, 2124, Avenida Otto Niemeyer, Camaquã, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-001, Brasil"
   },
   {
     "id": "113-jose-mariano-beck-escola-municipal",
@@ -2500,9 +2648,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOAQUIM PORTO VILLANOVA, 135 - VILA PINTO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0511306,
+    "lng": -51.1594937,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Avenida Joaquim Porto Villanova, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91410-330, Brasil"
   },
   {
     "id": "2-escola-tecnica-estadual-irmao-pedro",
@@ -2515,9 +2664,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FELIX DA CUNHA, 515, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0173221,
+    "lng": -51.2029892,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Técnica Irmão Pedro, 515, Rua Félix da Cunha, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90570-041, Brasil"
   },
   {
     "id": "114-joao-xxiii-fund-educ",
@@ -2530,9 +2680,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SEPE TIARAJU,1013, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0771257,
+    "lng": -51.215986,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto de Educação João XXIII, 1013, Rua Sepé Tiarajú, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90840-360, Brasil"
   },
   {
     "id": "159-emef-deputado-marcirio-goulart-loureiro",
@@ -2545,9 +2696,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA SAIBREIRA S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0770564,
+    "lng": -51.1732896,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Saibreira, Vila São Miguel, Coronel Aparício Borges, Porto Alegre, Rio Grande do Sul, Região Sul, 91510-350, Brasil"
   },
   {
     "id": "161-emef-prof-larry-jose-ribeiro-alves-ciem",
@@ -2560,9 +2712,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ECONOMISTA NILO WULFF, 1001 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.150462,
+    "lng": -51.1456264,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Economista Nilo Wulff, Vila Nova Restinga, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-000, Brasil"
   },
   {
     "id": "1-escola-estadual-paula-soares",
@@ -2575,9 +2728,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GENERAL AUTO, 68, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0342313,
+    "lng": -51.2314334,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Paula Soares, 68, Rua General Auto, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-370, Brasil"
   },
   {
     "id": "1-escola-estadual-candido-portinari",
@@ -2590,9 +2744,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MUCIO TEIXEIRA, 252, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0468025,
+    "lng": -51.2234734,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Cândido Portinari, 252, Rua Múcio Teixeira, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-360, Brasil"
   },
   {
     "id": "114-prof-afonso-guerreiro-lima-esc-est-ens-fund",
@@ -2605,9 +2760,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BANCO INGLÊS, 300, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0717783,
+    "lng": -51.2214718,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Afonso Guerreiro Lima, 300, Rua Banco Inglês, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90840-600, Brasil"
   },
   {
     "id": "160-colegio-mae-de-deus",
@@ -2620,9 +2776,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DR. PEREIRA NETO, 475, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1079753,
+    "lng": -51.2396278,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Doutor Pereira Neto, Camaquã, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-170, Brasil"
   },
   {
     "id": "2-colegio-marista-sao-pedro",
@@ -2635,9 +2792,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ALVARO CHAVES, 601, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0167421,
+    "lng": -51.2060907,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Álvaro Chaves, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90220-040, Brasil"
   },
   {
     "id": "114-brigadeiro-silva-paes-esc-est-ens-fund",
@@ -2650,9 +2808,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PROF CLEMENTE PINTO, 555, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0748374,
+    "lng": -51.2135064,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Brigadeiro Silva Paes, 555, Rua Professor Clemente Pinto, Teresópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90870-220, Brasil"
   },
   {
     "id": "113-cel-aparicio-borges-escola-estadual",
@@ -2665,9 +2824,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CEL. APARICIO BORGES, 2160, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0681441,
+    "lng": -51.1881883,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Coronel Aparício Borges, 2160, Avenida Coronel Aparício Borges, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90680-570, Brasil"
   },
   {
     "id": "1-escola-estadual-afonso-emilio-massot",
@@ -2680,9 +2840,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOSE HONORATO DOS SANTOS, 101, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0466851,
+    "lng": -51.2167077,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Coronel Afonso Emílio Massot, 101, Rua José Honorato Santos, Vila Cabo Rocha, Azenha, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-040, Brasil"
   },
   {
     "id": "112-dr-ferreira-de-abreu-esc-est-de-ens-fundamental",
@@ -2695,9 +2856,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BATOVI, 25 - VILA LEAO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9970326,
+    "lng": -51.1267717,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Batovi, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91130-500, Brasil"
   },
   {
     "id": "160-esc-est-santos-dumont",
@@ -2710,9 +2872,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CAETE, 328, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1026119,
+    "lng": -51.2601515,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "EEEM Santos Dumont, 328, Rua Caeté, Vila Assunção, Porto Alegre, Rio Grande do Sul, Região Sul, 91900-180, Brasil"
   },
   {
     "id": "158-chico-mendes-esc-municipal-de-ens-fundamental",
@@ -2725,9 +2888,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA GENTIL AMANCIO CLEMENTE, S/N - CHÁCARA DA FUMAÇA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0325013,
+    "lng": -51.1125515,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Gentil Amancio Clemente, Vila Chácara da Fumaça II, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91270-315, Brasil"
   },
   {
     "id": "1-escola-estadual-infante-dom-henrique",
@@ -2740,9 +2904,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GONCALVES DIAS, 1022, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0594236,
+    "lng": -51.221132,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Infante Dom Henrique, 1022, Rua Gonçalves Dias, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90130-060, Brasil"
   },
   {
     "id": "161-eeef-prof-langendonck",
@@ -2755,9 +2920,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JACUNDÁ, 365, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1561453,
+    "lng": -51.2219303,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Professores Langendonck, 365, Rua Jacundá, Guarujá, Porto Alegre, Rio Grande do Sul, Região Sul, 91770-430, Brasil"
   },
   {
     "id": "160-escola-estadual-otavio-mangabeira",
@@ -2770,9 +2936,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SILVIO SILVEIRA SOARES, 2551, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1042652,
+    "lng": -51.2332608,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Silvio Silveira Soares, Camaquã, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-460, Brasil"
   },
   {
     "id": "2-escola-estadual-olegario-mariano",
@@ -2785,9 +2952,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA OLINDA, 99, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0150786,
+    "lng": -51.2010327,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Olegario Mariano, 99, Rua Olinda, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90240-592, Brasil"
   },
   {
     "id": "2-gremio-nautico-uniao",
@@ -2800,9 +2968,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA QUINTINO BOCAIUVA, 500, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0225116,
+    "lng": -51.1978011,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Grêmio Náutico União Moinhos de Vento, 500, Rua Quintino Bocaiúva, Moinhos de Vento, Porto Alegre, Rio Grande do Sul, Região Sul, 90440-050, Brasil"
   },
   {
     "id": "160-escola-estadual-landel-de-moura",
@@ -2815,9 +2984,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOSE GOMES, 400, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.107956,
+    "lng": -51.2494002,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Monsenhor Roberto Landell de Moura, 400, Rua José Gomes, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-280, Brasil"
   },
   {
     "id": "111-recanto-da-alegria-e-e-e-ant-postao",
@@ -2830,9 +3000,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "R. VALENTIM VICENTINI, 225, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0172904,
+    "lng": -51.1767669,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Valentim Vicentini, Vila do IAPI, Passo da Areia, Porto Alegre, Rio Grande do Sul, Região Sul, 90520-220, Brasil"
   },
   {
     "id": "114-jeronimo-de-ornelas-esc-est-ens-fund",
@@ -2845,9 +3016,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SAO MIGUEL, 487, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0751973,
+    "lng": -51.1916407,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Jerônimo de Ornelas, 487, Rua São Miguel, Glória, Porto Alegre, Rio Grande do Sul, Região Sul, 91710-330, Brasil"
   },
   {
     "id": "159-esc-mun-ensino-fund-profa-judith-macedo-de-araujo",
@@ -2860,9 +3032,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SAUL CONSTANTINO, 100 - MORRO DA CRUZ, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0762873,
+    "lng": -51.1638176,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Saul Constantino, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-716, Brasil"
   },
   {
     "id": "1-escola-la-salle-pao-dos-pobres",
@@ -2875,9 +3048,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DA REPUBLICA, 801, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0405478,
+    "lng": -51.2274442,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola La Salle Pão dos Pobres, 801, Rua da República, Cidade Baixa, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-321, Brasil"
   },
   {
     "id": "2-escola-estadual-souza-lobo",
@@ -2890,9 +3064,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BAHIA, 948, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.010663,
+    "lng": -51.1998128,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Souza Lobo, 948, Avenida Bahia, São Geraldo, Porto Alegre, Rio Grande do Sul, Região Sul, 90240-552, Brasil"
   },
   {
     "id": "1-escola-estadual-inacio-montanha",
@@ -2905,9 +3080,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOAO PESSOA, 2125, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0484198,
+    "lng": -51.2112417,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Inácio Montanha, 2125, Avenida João Pessoa, Vila Cabo Rocha, Azenha, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-000, Brasil"
   },
   {
     "id": "1-estacio-fargs-faculdades-rio-grandenses",
@@ -2920,9 +3096,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MARECHAL FLORIANO PEIXOTO, 626, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.034549,
+    "lng": -51.2270702,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Estácio, 626, Rua Marechal Floriano Peixoto, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90020-061, Brasil"
   },
   {
     "id": "161-emef-senador-alberto-pasqualini",
@@ -2937,7 +3114,7 @@
     "geocodeQuery": "RUA TENENTE ARISOLY FAGUNDES, 250 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "160-e-e-de-1-e-2-graus-odila-gay-da-fonseca",
@@ -2952,7 +3129,7 @@
     "geocodeQuery": "AV. OSVALDO GONCALVES CRUZ, 444, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "113-partenon-tenis-clube",
@@ -2965,9 +3142,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PADRE CALDAS, 21 - GINÁSIO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0584915,
+    "lng": -51.19068,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Padre Caldas, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90650-000, Brasil"
   },
   {
     "id": "160-escola-estadual-padre-reus",
@@ -2980,9 +3158,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. OTTO NIEMEYER, 650, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1088601,
+    "lng": -51.2526684,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Padre Reus, 650, Avenida Otto Niemeyer, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-150, Brasil"
   },
   {
     "id": "1-senac-tech",
@@ -2995,9 +3174,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. VENANCIO AIRES, 93, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0376476,
+    "lng": -51.2102453,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Venâncio Aires, Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-194, Brasil"
   },
   {
     "id": "111-nossa-senhora-do-cenaculo-e-e-f",
@@ -3010,9 +3190,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "VIELA SAO BRAZ , 17, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0158359,
+    "lng": -51.1750734,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Cenáculo, 17, Viela São Braz, Vila do IAPI, Passo da Areia, Porto Alegre, Rio Grande do Sul, Região Sul, 90520-480, Brasil"
   },
   {
     "id": "2-escola-de-aplicacao-dinah-neri-pereira",
@@ -3025,9 +3206,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOSE BONIFACIO, 497, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0377903,
+    "lng": -51.2125435,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Estadual de 1° Grau Professora Dinah Néri Pereira, 497, Avenida José Bonifácio, Farroupilha, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-130, Brasil"
   },
   {
     "id": "2-circulo-social-israelita",
@@ -3042,7 +3224,7 @@
     "geocodeQuery": "RUA JOAO TELES, 508, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "111-imperatriz-dona-leopoldina-e-e-e-f",
@@ -3055,9 +3237,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV ITAJAI, 241, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.036703,
+    "lng": -51.1837166,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Imperatriz Leopoldina, 241, Avenida Itajaí, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90470-140, Brasil"
   },
   {
     "id": "160-escola-estadual-violeta-magalhaes",
@@ -3070,9 +3253,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTRADA VILA MARIA, 415, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1106741,
+    "lng": -51.2317678,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Violeta Magalhães, 415, Estrada Vila Maria, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 91920-370, Brasil"
   },
   {
     "id": "2-instituto-sao-francisco-santa-familia",
@@ -3085,9 +3269,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PARA, 833, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0095541,
+    "lng": -51.1991106,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto São Francisco Santa Familia, 833, Avenida Pará, São Geraldo, Porto Alegre, Rio Grande do Sul, Região Sul, 90240-591, Brasil"
   },
   {
     "id": "159-esc-est-de-ensino-fundamental-madre-maria-selima",
@@ -3100,9 +3285,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA TENENTE ARY TARRAGO PARTENON, 130, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0717314,
+    "lng": -51.1790332,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Tenente Ary Tarragô, Coronel Aparício Borges, Porto Alegre, Rio Grande do Sul, Região Sul, 91510-090, Brasil"
   },
   {
     "id": "1-escola-estadual-euclides-da-cunha",
@@ -3115,9 +3301,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BARAO DO CERRO LARGO, 385, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0644997,
+    "lng": -51.224634,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Barão de Cerro Largo, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90850-110, Brasil"
   },
   {
     "id": "2-escola-estadual-ildefonso-gomes",
@@ -3130,9 +3317,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA LUIZ MANOEL, 02, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0452802,
+    "lng": -51.2114648,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Luiz Manoel, Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-390, Brasil"
   },
   {
     "id": "1-escola-estadual-marechal-floriano-peixoto",
@@ -3145,9 +3333,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA COMENDADOR CORUJA, 315, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0248964,
+    "lng": -51.2135674,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Marechal Floriano Peixoto, 315, Rua Comendador Coruja, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90220-180, Brasil"
   },
   {
     "id": "1-escola-la-salle-pao-dos-pobres-secoes-olintho-de-oliveira",
@@ -3160,9 +3349,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DA REPUBLICA, 801, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0405478,
+    "lng": -51.2274442,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola La Salle Pão dos Pobres, 801, Rua da República, Cidade Baixa, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-321, Brasil"
   },
   {
     "id": "161-clube-do-professor-gaucho",
@@ -3175,9 +3365,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. GUAÍBA, 12060, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.144188,
+    "lng": -51.2230055,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Clube do Professor Gaúcho, 12060, Avenida Guaíba, Ipanema, Porto Alegre, Rio Grande do Sul, Região Sul, 90680-000, Brasil"
   },
   {
     "id": "114-machado-de-assis-esc-est-ens-fund",
@@ -3190,9 +3381,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA XAVIER DA CUNHA, 680, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0919886,
+    "lng": -51.2309051,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Machado de Assis, 680, Rua Xavier da Cunha, Nonoai, Porto Alegre, Rio Grande do Sul, Região Sul, 90830-430, Brasil"
   },
   {
     "id": "2-salao-paroquial-igreja-coracao-de-jesus",
@@ -3205,9 +3397,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CORONEL MANOEL PY, 82, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0156137,
+    "lng": -51.1917366,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Coronel Manoel Py, Higienópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90550-060, Brasil"
   },
   {
     "id": "160-escola-estadual-rafael-pinto-bandeira",
@@ -3220,9 +3413,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CEL. CLAUDINO, 254, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0958474,
+    "lng": -51.2430665,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Estadual de Ensino Fundamental Rafael Pinto Bandeira, 254, Rua Coronel Claudino, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-670, Brasil"
   },
   {
     "id": "2-imed-atitus",
@@ -3235,9 +3429,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DONA LAURA, 1020, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0294375,
+    "lng": -51.1949176,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "IMED, 1020, Rua Tito Lívio Zambecari, Bela Vista, Porto Alegre, Rio Grande do Sul, Região Sul, 90430-090, Brasil"
   },
   {
     "id": "1-escola-tecnica-estadual-parobe",
@@ -3250,9 +3445,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AVENIDA LOUREIRO DA SILVA, 945, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0378057,
+    "lng": -51.2313194,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Técnica Estadual Parobé, 945, Avenida Loureiro da Silva, Praia de Belas, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-420, Brasil"
   },
   {
     "id": "1-faculdade-de-direito-ufrgs",
@@ -3265,9 +3461,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOAO PESSOA, 80, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.033226,
+    "lng": -51.2220134,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Direito, 80, Avenida João Pessoa, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-161, Brasil"
   },
   {
     "id": "1-escola-estadual-ernesto-dornelles",
@@ -3280,9 +3477,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DUQUE DE CAXIAS,385, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0348174,
+    "lng": -51.2376284,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Senador Ernesto Dornelles, 385, Rua Duque de Caxias, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-282, Brasil"
   },
   {
     "id": "114-nacoes-unidas-esc-est-ens-fund",
@@ -3295,9 +3493,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MANOEL DO CARMO, 100, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0898771,
+    "lng": -51.2270753,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Nações Unidas, 100, Rua Manoel do Carmo, Nonoai, Porto Alegre, Rio Grande do Sul, Região Sul, 90830-340, Brasil"
   },
   {
     "id": "111-maria-tereza-da-silveira-escola-estadual",
@@ -3312,7 +3511,7 @@
     "geocodeQuery": "RUA FURRIEL LUIZ ANTONIO VARGAS , 135, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "113-associacao-israelita-circulo-social-e-esportivo",
@@ -3325,9 +3524,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV PROTASIO ALVES, 3435, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0428898,
+    "lng": -51.1367481,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Protásio Alves, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91450-150, Brasil"
   },
   {
     "id": "112-educandario-sao-luiz",
@@ -3340,9 +3540,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA NICOLAU COELHO, 58, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0252868,
+    "lng": -51.1457035,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Nicolau Coelho, Vila Ipiranga, Porto Alegre, Rio Grande do Sul, Região Sul, 91380-030, Brasil"
   },
   {
     "id": "2-colegio-joao-paulo-i",
@@ -3355,9 +3556,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SÃO FRANCISCO DA CALIFÓRNIA, 90, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0153387,
+    "lng": -51.1919219,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua São Francisco da Califórnia, Higienópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90550-060, Brasil"
   },
   {
     "id": "161-eeem-raul-pilla",
@@ -3370,9 +3572,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ENG. OSCAR DE OLIVEIRA RAMOS, 660 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1483959,
+    "lng": -51.1446935,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Engenheiro Oscar de Oliveira Ramos, Vila Nova Restinga, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-000, Brasil"
   },
   {
     "id": "1-escola-estadual-mane-garrincha",
@@ -3385,9 +3588,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ÉRICO VERÍSSIMO, 1255, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0568034,
+    "lng": -51.2187455,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Mané Garrincha, 1255, Avenida Érico Veríssimo, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90160-181, Brasil"
   },
   {
     "id": "1-secretaria-da-fazenda",
@@ -3400,9 +3604,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. SIQUEIRA CAMPOS, 1044, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0286819,
+    "lng": -51.2314622,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Siqueira Campos, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-040, Brasil"
   },
   {
     "id": "1-escola-estadual-william-richard-schisler",
@@ -3415,9 +3620,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA VISCONDE DO HERVAL, 970, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0529386,
+    "lng": -51.2190767,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola William Richard Schisler, 970, Rua Visconde do Herval, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90130-150, Brasil"
   },
   {
     "id": "161-eeef-clotilde-cachapuz-medeiros",
@@ -3430,9 +3636,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ARACHANES, 242, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1464055,
+    "lng": -51.220862,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Clotilde Cachapuz de Medeiros, 242, Rua dos Arachanes, Espírito Santo, Porto Alegre, Rio Grande do Sul, Região Sul, 91770-130, Brasil"
   },
   {
     "id": "160-e-e-paulina-moresco",
@@ -3445,9 +3652,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA TOMÉ ANTONIO DE SOUZA,160, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1336799,
+    "lng": -51.1979505,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Paulina Moresco, 160, Rua Tomé Antônio de Souza, Campo Novo, Porto Alegre, Rio Grande do Sul, Região Sul, 91750-760, Brasil"
   },
   {
     "id": "114-paroquia-da-ascensao",
@@ -3460,9 +3668,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ENG. LUDOLFO BOEHL, 300, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0821073,
+    "lng": -51.2087719,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Engenheiro Ludolfo Boehl, Teresópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90870-190, Brasil"
   },
   {
     "id": "160-esc-mun-de-ens-fund-aramy-silva",
@@ -3475,9 +3684,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CHICO PEDRO, 390 F. 2413382, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0986825,
+    "lng": -51.2441033,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Chico Pedro, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 91910-670, Brasil"
   },
   {
     "id": "158-major-miguel-jose-pereira-esc-est-de-ens-fundamental",
@@ -3490,9 +3700,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JACKSON DE FIGUEIREDO, 675 - VILA ELIZABETH, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9827619,
+    "lng": -51.1282352,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Jackson de Figueiredo, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91120-280, Brasil"
   },
   {
     "id": "113-dr-emilio-kemp-escola-estadual",
@@ -3505,9 +3716,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MONTEIRO LOBATO, 475, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.052169,
+    "lng": -51.1949593,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Doutor Emilio Kemp, 475, Rua Monteiro Lobato, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90620-270, Brasil"
   },
   {
     "id": "161-eeef-henrique-farjat",
@@ -3520,9 +3732,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. EDGAR PIRES DE CASTRO, 3050, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1584499,
+    "lng": -51.1609991,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Henrique Farjat, 3050, Avenida Edgar Pires de Castro, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
   },
   {
     "id": "1-sesc-centro",
@@ -3535,9 +3748,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ALBERTO BINS, 665, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0281646,
+    "lng": -51.2199519,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "SESC, 665, Avenida Alberto Bins, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90030-142, Brasil"
   },
   {
     "id": "1-foro-trabalhista-de-porto-alegre",
@@ -3550,9 +3764,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PRAIA DE BELAS, 1432, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0509857,
+    "lng": -51.2268711,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Justiça do Trabalho, 1432, Avenida Praia de Belas, Menino Deus, Porto Alegre, Rio Grande do Sul, Região Sul, 90110-904, Brasil"
   },
   {
     "id": "1-senac",
@@ -3565,9 +3780,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CORONEL GENUINO, 130, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0354834,
+    "lng": -51.2262093,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Faculdade SENAC Campus I, 130, Rua Coronel Genuíno, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90020-025, Brasil"
   },
   {
     "id": "161-eeem-oscar-coelho-de-souza",
@@ -3580,9 +3796,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. DO VAREJÃO, 372, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2200417,
+    "lng": -51.0970042,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Oscar Coelho de Souza, 372, Estrada do Varejão, Lami, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-660, Brasil"
   },
   {
     "id": "1-instituto-da-providencia",
@@ -3595,9 +3812,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DEMETRIO RIBEIRO, 594, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.035826,
+    "lng": -51.2327722,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Demétrio Ribeiro, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-312, Brasil"
   },
   {
     "id": "160-escola-estadual-osorio-duque-estrada",
@@ -3610,9 +3828,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CIDADE DE NATAL, 125, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1017203,
+    "lng": -51.2455718,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Osorio Duque Estrada, 125, Rua Cidade de Natal, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91900-040, Brasil"
   },
   {
     "id": "1-salao-paroquial-da-igreja-nossa-senhora-da-pompeia",
@@ -3625,9 +3844,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BARROS CASSAL, 220, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.027446,
+    "lng": -51.2168896,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Igreja Nossa Senhora da Pompéia, 220, Rua Doutor Barros Cassal, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90035-030, Brasil"
   },
   {
     "id": "114-santa-rita-de-cassia-esc-est-ens-fund",
@@ -3640,9 +3860,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SILVEIRO, 1640, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0741136,
+    "lng": -51.2302604,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Santa Rita de Cássia, 1640, Rua Silveiro, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90850-000, Brasil"
   },
   {
     "id": "1-escola-estadual-protasio-alves",
@@ -3655,9 +3876,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. IPIRANGA, 1090, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0473824,
+    "lng": -51.217825,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Protásio Alves, 1090, Avenida Ipiranga, Vila Cabo Rocha, Azenha, Porto Alegre, Rio Grande do Sul, Região Sul, 90160-091, Brasil"
   },
   {
     "id": "111-escola-munic-de-1-grau-vereador-antonio-giudice",
@@ -3672,7 +3894,7 @@
     "geocodeQuery": "RUA DR CAIO BRANDÃO DE MELO S/N, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "1-escola-mae-admiravel",
@@ -3685,9 +3907,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BARONESA DO GRAVATAÍ 165, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0418302,
+    "lng": -51.2261814,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Baronesa do Gravataí, Cidade Baixa, Porto Alegre, Rio Grande do Sul, Região Sul, 90160-070, Brasil"
   },
   {
     "id": "1-escola-estadual-leopolda-barnewitz",
@@ -3700,9 +3923,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOAO ALFREDO, 443, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0411253,
+    "lng": -51.225859,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Professora Leopolda Barnewitz, 443, Rua João Alfredo, Cidade Baixa, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-230, Brasil"
   },
   {
     "id": "112-escola-estadual-brigadeiro-francisco-de-lima-e-silva",
@@ -3715,9 +3939,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA TUNÍSIA, 60, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0164677,
+    "lng": -51.1486896,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Brigadeiro Francisco de Lima e Silva, 60, Rua Tunísia, Vila Ipiranga, Porto Alegre, Rio Grande do Sul, Região Sul, 91370-290, Brasil"
   },
   {
     "id": "111-escola-estadual-de-1-grau-jose-garibaldi",
@@ -3732,7 +3957,7 @@
     "geocodeQuery": "RUA CAIO BRANDAO DE MELO, S/N, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-escola-estadual-luciana-de-abreu",
@@ -3745,9 +3970,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JACINTO OSORIO, 60, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.040933,
+    "lng": -51.2119928,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Luciana de Abreu, 60, Rua General Jacinto Osório, Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 90040-290, Brasil"
   },
   {
     "id": "158-eng-rodolfo-ahrons-esc-est-de-ens-fundamental",
@@ -3762,7 +3988,7 @@
     "geocodeQuery": "EST. ANTÔNIO SEVERINO, 109 - VILA VARIG, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "161-emef-campos-do-cristal",
@@ -3777,7 +4003,7 @@
     "geocodeQuery": "BECO DO IMPÉRIO, 75 - VILA NOVA, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "114-uniritter-centro-universitario-ritter-dos-reis",
@@ -3790,9 +4016,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ORFANOTRÓFIO, 555, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0800388,
+    "lng": -51.2199428,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "UniRitter Campus Zona Sul, 555, Rua Orfanotrófio, Vila Orfanotrófio I, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90840-440, Brasil"
   },
   {
     "id": "161-ce-doutor-glicerio-alves",
@@ -3807,7 +4034,7 @@
     "geocodeQuery": "RUA EUSTÁQUIO INÁCIO DA SILVEIRA, 300, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "114-cidade-jardim-esc-est-ens-fund",
@@ -3822,7 +4049,7 @@
     "geocodeQuery": "AV. FABIO ARAUJO SANTOS, S/N, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-colegio-vicentino-santa-cecilia",
@@ -3835,9 +4062,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FELIPE DE OLIVEIRA, 448, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0426245,
+    "lng": -51.1970855,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Vicentino Santa Cecília, 448, Rua Felipe de Oliveira, Santa Cecília, Porto Alegre, Rio Grande do Sul, Região Sul, 90630-000, Brasil"
   },
   {
     "id": "112-porto-alegre-escola-estadual-de-ensino-fundamental",
@@ -3850,9 +4078,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOAO DALLEGRAVE, 130, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0376193,
+    "lng": -51.1256323,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Porto Alegre, 130, Rua João Dallegrave, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91260-170, Brasil"
   },
   {
     "id": "158-decio-martins-costa-esc-est-vila-elizabeth",
@@ -3867,7 +4096,7 @@
     "geocodeQuery": "RUA DOMIGOS DE ABREU, 967 - VILA ELIZABETH, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "111-col-romano-ii-unid-sao-mateus-antigo-espirito-santo",
@@ -3880,9 +4109,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BORTOLO BARBIERI, 90, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.004399,
+    "lng": -51.1649254,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Bortolo Barbieri, Jardim São Pedro, Porto Alegre, Rio Grande do Sul, Região Sul, 91040-170, Brasil"
   },
   {
     "id": "160-igreja-sao-mateus-ginasio-de-esportes",
@@ -3895,9 +4125,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SARGENTO NICOLAU DIAS DE FARIAS, 568, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1097775,
+    "lng": -51.2558294,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Paróquia São Mateus, 568, Rua Sargento Nicolau Dias de Farias, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91900-250, Brasil"
   },
   {
     "id": "158-pres-joao-belchior-m-goulart-esc-mun-de-ens-fund",
@@ -3910,9 +4141,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOAO LUIZ PUFAL, 100 - VILA ELIZABETE, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9793553,
+    "lng": -51.1258938,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua João Luiz Pufal, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91140-000, Brasil"
   },
   {
     "id": "1-instituto-de-artes-da-ufrgs",
@@ -3925,9 +4157,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SENHOR DOS PASSOS, 248, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0291923,
+    "lng": -51.2231327,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "UFRGS Instituto de Artes, 248, Rua Senhor dos Passos, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90020-180, Brasil"
   },
   {
     "id": "2-colegio-concordia",
@@ -3940,9 +4173,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PRESIDENTE FRANKLIN ROOSEVELT, 770, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0066393,
+    "lng": -51.2020373,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Concordia, 770, Avenida Presidente Franklin Roosevelt, São Geraldo, Porto Alegre, Rio Grande do Sul, Região Sul, 90230-001, Brasil"
   },
   {
     "id": "2-escola-estadual-branca-diva-pereira-de-souza",
@@ -3955,9 +4189,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. SAO PAULO, 1020, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0116918,
+    "lng": -51.2051577,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Professora Branca Diva Pereira de Souza, 1020, Avenida São Paulo, São Geraldo, Porto Alegre, Rio Grande do Sul, Região Sul, 90230-160, Brasil"
   },
   {
     "id": "160-escola-estadual-pedro-sirangelo",
@@ -3970,9 +4205,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOSE CORREA DA SILVA, 380, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.106685,
+    "lng": -51.2243418,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Pedro Sirangelo, 380, Avenida José Correa da Silva, Jardim das Palmeiras, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 91740-380, Brasil"
   },
   {
     "id": "114-igreja-sao-jose-salao-paroquial",
@@ -3985,9 +4221,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. RODRIGUES DA FONSECA, 1459, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.115323,
+    "lng": -51.2120608,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Paróquia São José da Vila Nova, 1459, Avenida Rodrigues da Fonseca, Vila Nova, Porto Alegre, Rio Grande do Sul, Região Sul, 91740-800, Brasil"
   },
   {
     "id": "1-instituto-imaculado-coracao-de-maria",
@@ -4000,9 +4237,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA RIACHUELO, 508, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0333215,
+    "lng": -51.2366585,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "508, Rua Riachuelo, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-270, Brasil"
   },
   {
     "id": "1-universidade-federal-de-ciencias-da-saude-de-porto-alegre",
@@ -4015,9 +4253,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SARMENTO LEITE, 245, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0315876,
+    "lng": -51.2206144,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Universidade Federal de Ciências da Saúde, 245, Rua Sarmento Leite, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-170, Brasil"
   },
   {
     "id": "2-escola-normal-1-de-maio",
@@ -4030,9 +4269,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PRESIDENTE FRANKLIN ROOSEVELT, 149, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0010013,
+    "lng": -51.2010429,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Primeiro de Maio, 149, Avenida Presidente Franklin Roosevelt, Navegantes, Porto Alegre, Rio Grande do Sul, Região Sul, 90230-000, Brasil"
   },
   {
     "id": "160-escola-estadual-visconde-do-rio-grande",
@@ -4045,9 +4285,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "PRACA ARATIBA, 19, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1027387,
+    "lng": -51.2288214,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Praça Aratiba, Parque Madepinho, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 91740-170, Brasil"
   },
   {
     "id": "111-esc-estadual-de-ensino-fund-aurelio-reis",
@@ -4060,9 +4301,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MONTE ALEGRE, 119, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0034538,
+    "lng": -51.1558519,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Aurelio Reis, 119, Rua Monte Alegre, Jardim Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 91040-120, Brasil"
   },
   {
     "id": "1-escola-de-administracao-da-ufrgs",
@@ -4075,9 +4317,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA WASHINGTON LUIZ, 855, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0371129,
+    "lng": -51.2319282,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "UFRGS Escola de Administração, 855, Rua Washington Luiz, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-460, Brasil"
   },
   {
     "id": "111-carlos-fagundes-de-mello-unidade-estadual-de-ensino",
@@ -4092,7 +4335,7 @@
     "geocodeQuery": "RUA D QUADRA 28, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "161-eeef-dr-jose-loureiro-da-silva",
@@ -4105,9 +4348,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. RETIRO DA PONTA GROSSA, 3541, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1853389,
+    "lng": -51.2093795,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Estadual de Ensino Fundamental Dr. José Loureiro da Silva, 3541, Estrada Retiro da Ponta Grossa, Ponta Grossa, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-590, Brasil"
   },
   {
     "id": "160-e-m-1-g-leocadia-felizardo-prestes",
@@ -4122,7 +4366,7 @@
     "geocodeQuery": "RUA ROMEU VASCONCELOS ROSA, 10, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "160-clube-dos-jangadeiros",
@@ -4137,7 +4381,7 @@
     "geocodeQuery": "RUA ERNESTO DE PAIVA, 139, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "1-colegio-romano-santa-marta",
@@ -4150,9 +4394,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MARCILIO DIAS, 1201, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0504518,
+    "lng": -51.2170547,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "1201, Rua Marcílio Dias, Vila Cabo Rocha, Azenha, Porto Alegre, Rio Grande do Sul, Região Sul, 90130-001, Brasil"
   },
   {
     "id": "111-colegio-estadual-dom-joao-becker",
@@ -4165,9 +4410,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "NOVA PRATA N 185, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0131243,
+    "lng": -51.177816,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Nova Prata, Vila do IAPI, Passo da Areia, Porto Alegre, Rio Grande do Sul, Região Sul, 90520-200, Brasil"
   },
   {
     "id": "160-escola-estadual-alceu-wamosy",
@@ -4180,9 +4426,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JARDIM DAS BROMÉLIAS, 52, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1109703,
+    "lng": -51.2348879,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Alceu Wamosy, 52, Rua Jardim das Bromélias, Camaquã, Porto Alegre, Rio Grande do Sul, Região Sul, 91920-400, Brasil"
   },
   {
     "id": "161-eeef-evarista-flores-da-cunha",
@@ -4197,7 +4444,7 @@
     "geocodeQuery": "PÇA. INÁCIO ANTÔNIO DA SILVA, S/N, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "1-palacio-do-min-publico-forte-apache",
@@ -4210,9 +4457,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JERONIMO COELHO, 23, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0325632,
+    "lng": -51.2265303,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Jerônimo Coelho, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90020-061, Brasil"
   },
   {
     "id": "111-n-s-do-montserrat-salao-paroquial-da-igreja",
@@ -4225,9 +4473,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ANITA GARIBALDI N 1121, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0222398,
+    "lng": -51.1739669,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Anita Garibaldi, Boa Vista, Porto Alegre, Rio Grande do Sul, Região Sul, 90480-201, Brasil"
   },
   {
     "id": "112-lauro-rodrigues-esc-municipal-de-ens-fundamental",
@@ -4240,9 +4489,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DR. MARINO ABRAHAO, 240, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0183775,
+    "lng": -51.1238271,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Lauro Rodrigues, 240, Rua Doutor Marino Abrahão, Passo das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91230-260, Brasil"
   },
   {
     "id": "114-fernando-ferrari-esc-est-ens-fund",
@@ -4255,9 +4505,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA UPAMOROTI, 1200, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0917754,
+    "lng": -51.237696,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Fernando Ferrari, 1200, Avenida Capivari, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 90820-140, Brasil"
   },
   {
     "id": "161-eef-madre-raffo",
@@ -4270,9 +4521,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DOUTOR CARLOS FLORES, 53, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2101115,
+    "lng": -51.1830703,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Madre Raffo, 53, Rua Doutor Carlos Flores, Belém Novo, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-080, Brasil"
   },
   {
     "id": "161-emef-dolores-alcaraz-caldas",
@@ -4285,9 +4537,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA CARLOS NIEDERAUER HOFMEISTER, 85 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.150665,
+    "lng": -51.1393866,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Doutor Carlos Niederauer Hofmeister, Vila Nova Restinga, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-020, Brasil"
   },
   {
     "id": "161-emef-lidovino-fanton",
@@ -4302,7 +4555,7 @@
     "geocodeQuery": "RUA MANOEL FARIA ROSA PRIMO, 940 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "114-simoes-lopes-neto-esc-est-ens-fund",
@@ -4317,7 +4570,7 @@
     "geocodeQuery": "RUA IRMAO PEDRO, 82, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "160-tristezense-piscina-clube",
@@ -4330,9 +4583,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DR. ARMANDO BARBEDO, 300, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1117242,
+    "lng": -51.2541221,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Doutor Armando Barbedo, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91900-190, Brasil"
   },
   {
     "id": "161-eeef-luiz-gama",
@@ -4347,7 +4601,7 @@
     "geocodeQuery": "RUA HONDURAS, 115 - LOT. MARIANTE, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "161-eeef-genoveva-da-costa-bernardes",
@@ -4360,9 +4614,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. OTAVIANO JOSÉ PINTO, 50, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2204042,
+    "lng": -51.0982733,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Genoveva da Costa Bernardes, 50, Estrada Otaviano José Pinto, Lami, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-660, Brasil"
   },
   {
     "id": "2-senai-visconde-de-maua",
@@ -4375,9 +4630,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA COMENDADOR TAVARES, 436-582, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0002114,
+    "lng": -51.2031916,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Comendador Tavares, Navegantes, Porto Alegre, Rio Grande do Sul, Região Sul, 90230-000, Brasil"
   },
   {
     "id": "114-maria-imaculada-escola",
@@ -4390,9 +4646,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA GENERAL GOMES CARNEIRO, 364, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0676044,
+    "lng": -51.210078,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Maria Imaculada, 364, Rua General Gomes Carneiro, Medianeira, Porto Alegre, Rio Grande do Sul, Região Sul, 90870-310, Brasil"
   },
   {
     "id": "160-associacao-do-pessoal-da-caixa-economica-federal",
@@ -4405,9 +4662,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CEL. MARCOS, 627, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1228712,
+    "lng": -51.2519843,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Coronel Marcos, Pedra Redonda, Porto Alegre, Rio Grande do Sul, Região Sul, 91920-000, Brasil"
   },
   {
     "id": "161-eeef-general-neto",
@@ -4420,9 +4678,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. EDGAR PIRES DE CASTRO, 10521, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2046795,
+    "lng": -51.1160971,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola General Neto, 10521, Avenida Edgar Pires de Castro, Boa Vista do Sul, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
   },
   {
     "id": "161-emef-rincao",
@@ -4435,9 +4694,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA LUIZ OTAVIO, 391, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1194126,
+    "lng": -51.1612346,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Rincão, 391, Rua Luiz Otávio, Belém Velho, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-330, Brasil"
   },
   {
     "id": "160-e-e-1-g-monte-libano",
@@ -4450,9 +4710,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA LEMÚRIA, 10, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1304272,
+    "lng": -51.226101,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Estadual de Ensino Fundamental Monte Líbano, 10, Rua Lemuria, Ipanema, Porto Alegre, Rio Grande do Sul, Região Sul, 91760-530, Brasil"
   },
   {
     "id": "114-sao-joao-luiz-orione-capela",
@@ -4465,9 +4726,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DORMENIO, 487 - ESQUINA RUA PRISMA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.076458,
+    "lng": -51.2299946,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Beco 1, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90850-250, Brasil"
   },
   {
     "id": "112-america-escola-estadual-de-ensino-fundamental",
@@ -4480,9 +4742,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA OCTACILIO JOSE DIAS, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0156381,
+    "lng": -51.1216603,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Octacílio José Dias, Passo das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-001, Brasil"
   },
   {
     "id": "161-eeef-nossa-senhora-da-conceicao",
@@ -4495,9 +4758,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOÃO ANTÔNIO DA SILVEIRA, 5071, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1620492,
+    "lng": -51.1496266,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Estrada João Antônio da Silveira, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-519, Brasil"
   },
   {
     "id": "160-instituto-educacional-joao-paulo-i",
@@ -4510,9 +4774,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "TRAVESSA PEDRA REDONDA, 400, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1249675,
+    "lng": -51.239027,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colegio João Paulo I, 400, Alameda 2, Jardim Isabel, Porto Alegre, Rio Grande do Sul, Região Sul, 91760-630, Brasil"
   },
   {
     "id": "161-eeem-jose-do-patrocinio",
@@ -4525,9 +4790,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BELIZE, 261 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1629051,
+    "lng": -51.1370805,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Belize, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
   },
   {
     "id": "160-colegio-marista-ipanema",
@@ -4540,9 +4806,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. CEL MARCOS 1959, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1228712,
+    "lng": -51.2519843,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Coronel Marcos, Pedra Redonda, Porto Alegre, Rio Grande do Sul, Região Sul, 91920-000, Brasil"
   },
   {
     "id": "158-prof-aurora-peixoto-de-azevedo-esc-est-de-ens-fundamental",
@@ -4555,9 +4822,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PEDRO DOS SANTOS SÁ, 50 - VILA NOVA BRASILIA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9875798,
+    "lng": -51.1363897,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Aurora Peixoto de Azevedo, 50, Rua Pedro dos Santos Sá, Vila Nova Brasília, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91120-150, Brasil"
   },
   {
     "id": "1-faculdade-de-ciencias-economicas-ufrgs",
@@ -4570,9 +4838,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOAO PESSOA, 52, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0328573,
+    "lng": -51.2220728,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Economia, 52, Avenida João Pessoa, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90050-161, Brasil"
   },
   {
     "id": "2-escola-estadual-camila-furtado-alves",
@@ -4585,9 +4854,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ALMIRANTE BARROSO, 79, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0148701,
+    "lng": -51.211431,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Camila Furtado Alves, 79, Rua Almirante Barroso, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90220-021, Brasil"
   },
   {
     "id": "161-sao-francisco-projeto-social",
@@ -4600,9 +4870,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PRINCIPAL DA PONTA GROSSA, 1701, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1787869,
+    "lng": -51.176297,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Principal da Ponta Grossa, Ponta Grossa, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-070, Brasil"
   },
   {
     "id": "161-paroquia-n-s-aparecida-c-social-pe-pedro-leonardi",
@@ -4615,9 +4886,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. CHÁCARA DO BANCO, 71 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1639935,
+    "lng": -51.1449768,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Estrada Chácara do Banco, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
   },
   {
     "id": "113-ginasio-parque-ararigboia",
@@ -4630,9 +4902,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SAICÃ, 06, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0467339,
+    "lng": -51.1812994,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Saicã, Jardim Botânico, Porto Alegre, Rio Grande do Sul, Região Sul, 90690-320, Brasil"
   },
   {
     "id": "114-gabriel-obino-esc-munic",
@@ -4645,9 +4918,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ENG. LUDOLFO BOEHL, 1402, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0834756,
+    "lng": -51.1997613,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Gabriel Obino, 1402, Avenida Engenheiro Ludolfo Boehl, Teresópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 91720-150, Brasil"
   },
   {
     "id": "114-joao-paulo-colegio",
@@ -4660,9 +4934,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PADRE CACIQUE, 532, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0641808,
+    "lng": -51.231629,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "CarHouse Toyota Zona Sul, 532, Avenida Padre Cacique, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90850-110, Brasil"
   },
   {
     "id": "161-emef-vereador-carlos-pessoa-de-brum",
@@ -4675,9 +4950,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ABOLIÇÃO, 1 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1578719,
+    "lng": -51.138781,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Abolição, Vila Núcleo Esperança, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-070, Brasil"
   },
   {
     "id": "1-tribunal-de-contas-do-estado",
@@ -4690,9 +4966,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA 7 DE SETEMBRO, 388, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0307084,
+    "lng": -51.2345624,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua 7 de Setembro, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90020-003, Brasil"
   },
   {
     "id": "161-emef-chapeu-do-sol",
@@ -4705,9 +4982,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA GOMERCINDO DE OLIVEIRA, S/N - LOT. CHAPÉU DO SOL, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1776322,
+    "lng": -51.1731296,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Gomercindo de Oliveira, Chapéu do Sol, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-070, Brasil"
   },
   {
     "id": "2-instituto-estadual-de-educacao-general-flores-da-cunha",
@@ -4720,9 +4998,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. OSVALDO ARANHA, 527, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0336292,
+    "lng": -51.217291,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Instituto de Educação, 527, Avenida Osvaldo Aranha, Farroupilha, Porto Alegre, Rio Grande do Sul, Região Sul, 90035-190, Brasil"
   },
   {
     "id": "161-emeef-tristao-sucupira-vianna",
@@ -4735,9 +5014,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ECONOMISTA NILO WULFF, 955 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1498682,
+    "lng": -51.1458575,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Tristão Sucupira Vianna, 955, Avenida Economista Nilo Wulff, Vila Nova Restinga, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-000, Brasil"
   },
   {
     "id": "111-danilo-antonio-zaffari-e-e-e-f",
@@ -4750,9 +5030,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MARCOS KRUCHIN, 291, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9853346,
+    "lng": -51.1963547,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua General Marcos Kruchin, Farrapos, Porto Alegre, Rio Grande do Sul, Região Sul, 90245-250, Brasil"
   },
   {
     "id": "160-centro-comunitario-parque-madepinho",
@@ -4765,9 +5046,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ARROIO GRANDE, 50, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1006084,
+    "lng": -51.2300135,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Arroio Grande, Parque Madepinho, Cavalhada, Porto Alegre, Rio Grande do Sul, Região Sul, 09174-000, Brasil"
   },
   {
     "id": "161-eeef-heitor-villa-lobos",
@@ -4780,9 +5062,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. DA EXTREMA, 2943, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2142687,
+    "lng": -51.0447694,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Estrada Extrema, Extrema, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-540, Brasil"
   },
   {
     "id": "111-carlos-barbosa-goncalves-escola-estadual",
@@ -4797,7 +5080,7 @@
     "geocodeQuery": "TRAVESSA HEIZELMANN N 250, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "2-conselho-regional-de-quimica",
@@ -4810,9 +5093,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ITAQUI, 45, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0415137,
+    "lng": -51.1883841,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Itaqui, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90460-150, Brasil"
   },
   {
     "id": "1-escola-delta",
@@ -4825,9 +5109,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AVENIDA PRESIDENTE VARGAS 1650, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0182143,
+    "lng": -51.258685,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Presidente Vargas, Arquipélago, Porto Alegre, Rio Grande do Sul, Região Sul, 90090-140, Brasil"
   },
   {
     "id": "158-cristovao-colombo-esc-est-e-medio",
@@ -4840,9 +5125,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA REZENDE COSTA, 805, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9830869,
+    "lng": -51.1315732,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Cristóvão Colombo, 805, Rua Rezende Costa, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91120-280, Brasil"
   },
   {
     "id": "1-inss",
@@ -4855,9 +5141,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JERONIMO COELHO, 127, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0325632,
+    "lng": -51.2265303,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua Jerônimo Coelho, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90020-061, Brasil"
   },
   {
     "id": "159-colegio-marista-champagnat-secao-especial",
@@ -4870,9 +5157,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. BENTO GONCALVES, 4314, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0600883,
+    "lng": -51.173132,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Marista Champagnat, 4314, Avenida Bento Gonçalves, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90650-001, Brasil"
   },
   {
     "id": "2-escola-estadual-candido-jose-de-godoi",
@@ -4885,9 +5173,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. FRANCA, 400, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0022517,
+    "lng": -51.2027086,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Colégio Cândido José de Godoi, 400, Avenida França, Navegantes, Porto Alegre, Rio Grande do Sul, Região Sul, 90230-220, Brasil"
   },
   {
     "id": "161-eeief-fag-nhin",
@@ -4900,9 +5189,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. JOÃO DE OLIVEIRA REMIÃO, 9105 - PDA. 25, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0989451,
+    "lng": -51.1260032,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Estrada João de Oliveira Remião, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91540-150, Brasil"
   },
   {
     "id": "158-cesmar-centro-social-marista",
@@ -4915,9 +5205,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTRADA ANTONIO SEVERINO,1493, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0256804,
+    "lng": -51.0965239,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Centro Social Marista, 1493, Estrada Antônio Severino, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-330, Brasil"
   },
   {
     "id": "161-esporte-clube-lajeado",
@@ -4930,9 +5221,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. EDGAR PIRES DE CASTRO, 9316, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.203695,
+    "lng": -51.1167295,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Edgar Pires de Castro, São Caetano, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-660, Brasil"
   },
   {
     "id": "161-emef-nossa-senhora-do-carmo",
@@ -4945,9 +5237,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BISPO MARINO PRUDÊNCIO MOREIRA, 95 (5A UNIDADE), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1528476,
+    "lng": -51.1336839,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Bispo Marino Prudencio Moreira, Vila Castelo, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-200, Brasil"
   },
   {
     "id": "161-emef-mario-quintana",
@@ -4960,9 +5253,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA C, 1 (VILA CASTELO - 5 UNIDADE), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2281387,
+    "lng": -51.0587993,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua C, Vila Sapolândia, Extrema, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-540, Brasil"
   },
   {
     "id": "111-lions-club-p-a-farrapos-esc-est-de-1-grau",
@@ -4975,9 +5269,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "DONA TEODORA N 1156, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -29.9922515,
+    "lng": -51.1942034,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Vila Dona Teodora, Humaitá, Porto Alegre, Rio Grande do Sul, Região Sul, Brasil"
   },
   {
     "id": "111-santa-luiza-obra-social",
@@ -4990,9 +5285,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA D N 30, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.0738748,
+    "lng": -51.1838331,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Rua D, Jardim Morado do Sol, Coronel Aparício Borges, Porto Alegre, Rio Grande do Sul, Região Sul, 91510-090, Brasil"
   },
   {
     "id": "1-escola-estadual-oscar-schmitt-i-das-flores",
@@ -5007,7 +5303,7 @@
     "geocodeQuery": "RUA DO PESCADOR, 690 - ILHA DAS FLORES, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "161-eeef-custodio-de-mello",
@@ -5020,9 +5316,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ARGEMIRO OGANDO CORRÊA, 220, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1643191,
+    "lng": -51.2279706,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Custódio de Mello, 220, Rua Argemiro Ogando Corrêa, Vila dos Sargentos, Serraria, Porto Alegre, Rio Grande do Sul, Região Sul, 91770-810, Brasil"
   },
   {
     "id": "160-e-e-1-g-inc-dr-tancredo-neves",
@@ -5037,7 +5334,7 @@
     "geocodeQuery": "RUA VER. ROBERTO LANDELL DE MOURA, 448, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "1-escola-estadual-maria-jose-mabilde-i-pintada",
@@ -5052,7 +5349,7 @@
     "geocodeQuery": "AV.PRES.VARGAS,129(ANTIGA RUA N.SRA DA BOA VIAGEM,300) ILHA DA PINTADA, Porto Alegre, RS, Brasil",
     "lat": null,
     "lng": null,
-    "geocodeStatus": "pending"
+    "geocodeStatus": "failed"
   },
   {
     "id": "161-eeef-pedro-americo",
@@ -5065,9 +5362,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. CHAPÉU DO SOL, 1680, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.1808192,
+    "lng": -51.1643951,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Estrada Chapéu do Sol, Chapéu do Sol, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-780, Brasil"
   },
   {
     "id": "161-eeef-margarida-coelho-de-souza",
@@ -5080,8 +5378,9 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. DO LAMI, 4742, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "pending"
+    "lat": -30.2119848,
+    "lng": -51.1320293,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Margarida Coelho de Souza, 4742, Avenida do Lami, Boa Vista do Sul, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-120, Brasil"
   }
 ]
