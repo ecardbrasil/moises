@@ -26,10 +26,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ELIAS CIRNE LIMA, 100 - ESQ. AV. BENTO GONCALVES, Porto Alegre, RS, Brasil",
-    "lat": -30.0635011,
-    "lng": -51.1595907,
+    "lat": -30.0625338,
+    "lng": -51.1590249,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Avenida Elias Cirne Lima, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-310, Brasil"
+    "geocodeDisplayName": "Avenida Elias Cirne Lima, Intercap, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-310, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-prof-alcides-cunha",
@@ -58,10 +58,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. IPIRANGA, 6681 - PRÉDIO 50, Porto Alegre, RS, Brasil",
-    "lat": -30.0443805,
-    "lng": -51.1990196,
+    "lat": -30.0610951,
+    "lng": -51.1511028,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Avenida Ipiranga, Santa Cecília, Porto Alegre, Rio Grande do Sul, Região Sul, 90610-240, Brasil"
+    "geocodeDisplayName": "Avenida Ipiranga, Jardim das Bandeiras, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-360, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-min-salgado-filho",
@@ -74,8 +74,8 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA DR. JOSE BENTO CORREA, 100 - JARDIM YPU, Porto Alegre, RS, Brasil",
-    "lat": -30.0479668,
-    "lng": -51.135771,
+    "lat": -30.0477866,
+    "lng": -51.1339503,
     "geocodeStatus": "approx",
     "geocodeDisplayName": "Rua Doutor José Bento Corrêa, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91450-140, Brasil"
   },
@@ -185,10 +185,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTRADA JOÃO DE OLIVEIRA REMIÃO, 2689 - PAR. 06, Porto Alegre, RS, Brasil",
-    "lat": -30.1372824,
-    "lng": -51.0938654,
+    "lat": -30.1123592,
+    "lng": -51.1098033,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Estrada João de Oliveira Remião, Jardim Outeiral, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 94470-971, Brasil"
+    "geocodeDisplayName": "Estrada João de Oliveira Remião, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
   },
   {
     "id": "159-esc-mun-de-1-grau-afonso-guerreiro-lima",
@@ -549,10 +549,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA UM, S/N - CEFER I, Porto Alegre, RS, Brasil",
-    "lat": -29.9901216,
-    "lng": -51.2675929,
+    "lat": -30.0287964,
+    "lng": -51.1110941,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Rua 1, Arquipélago, Porto Alegre, Rio Grande do Sul, Região Sul, 90090-040, Brasil"
+    "geocodeDisplayName": "Rua 1, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91260-650, Brasil"
   },
   {
     "id": "111-esc-estadual-de-ensino-fund-e-medio-mons-leopoldo-hoff",
@@ -692,9 +692,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA IRMÃO INOCÊNCIO LUIZ, 21, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.0433271,
+    "lng": -51.1418356,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Colégio Romano Senhor Bom Jesus, 223, Rua Noel Rosa, Jardim Sabará, Porto Alegre, Rio Grande do Sul, Região Sul, 91210-080, Brasil"
   },
   {
     "id": "2-colegio-leonardo-da-vinci-alfa",
@@ -739,8 +740,8 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "BECO DO DAVID, 269 - PARADA 1A, Porto Alegre, RS, Brasil",
-    "lat": -30.098385,
-    "lng": -51.1449609,
+    "lat": -30.1006294,
+    "lng": -51.1437,
     "geocodeStatus": "approx",
     "geocodeDisplayName": "Beco do David, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91550-550, Brasil"
   },
@@ -835,10 +836,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. JOAO DE OLIVEIRA REMIAO, 6505 - PARADA 16, Porto Alegre, RS, Brasil",
-    "lat": -30.1123592,
-    "lng": -51.1098033,
+    "lat": -30.1372824,
+    "lng": -51.0938654,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Estrada João de Oliveira Remião, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
+    "geocodeDisplayName": "Estrada João de Oliveira Remião, Jardim Outeiral, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 94470-971, Brasil"
   },
   {
     "id": "161-emef-moradas-da-hipica",
@@ -899,10 +900,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "BECO DA TAQUARA, S/N - VILA SAO PEDRO - PARADA 13, Porto Alegre, RS, Brasil",
-    "lat": -30.1057061,
-    "lng": -51.1110734,
+    "lat": -30.1054643,
+    "lng": -51.1088731,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Rua Por-do-Sol, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
+    "geocodeDisplayName": "Avenida Deputado Adão Pretto, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
   },
   {
     "id": "159-esc-est-de-1-grau-inc-jeronimo-de-albuquerque",
@@ -1154,9 +1155,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA COMANDANTE GUSTAVO CRAMER, 90, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.0029982,
+    "lng": -51.1525201,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Lindóia Tênis Clube, 90, Travessa Comandante Gustavo Cramer, Jardim Lindóia, Porto Alegre, Rio Grande do Sul, Região Sul, 91050-190, Brasil"
   },
   {
     "id": "111-secretaria-municipal-do-meio-ambiente",
@@ -1216,9 +1218,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "IBIRAPUITA N 65 VILA SESI, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.0040315,
+    "lng": -51.1740393,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Rua Ibirapuitã, Santa Maria Goretti, Porto Alegre, Rio Grande do Sul, Região Sul, 91030-150, Brasil"
   },
   {
     "id": "2-instituto-metodista-de-educacao-e-cultura",
@@ -1263,8 +1266,8 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PAULO MADUREIRA COELHO, 165 - VILA PETROPOLIS, Porto Alegre, RS, Brasil",
-    "lat": -30.0401254,
-    "lng": -51.134758,
+    "lat": -30.0372689,
+    "lng": -51.1345815,
     "geocodeStatus": "approx",
     "geocodeDisplayName": "Rua Paulo Madureira Coelho, Morro Santana, Porto Alegre, Rio Grande do Sul, Região Sul, 91310-040, Brasil"
   },
@@ -1489,7 +1492,7 @@
     "geocodeQuery": "RUA REIS LOUZADA, 166 (GINASIO), Porto Alegre, RS, Brasil",
     "lat": -30.048327,
     "lng": -51.1922035,
-    "geocodeStatus": "approx",
+    "geocodeStatus": "ok",
     "geocodeDisplayName": "Rua Reis Louzada, Petrópolis, Porto Alegre, Rio Grande do Sul, Região Sul, 90670-020, Brasil"
   },
   {
@@ -1694,10 +1697,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. IPIRANGA, 6681 - PRÉDIO 11, Porto Alegre, RS, Brasil",
-    "lat": -30.0443805,
-    "lng": -51.1990196,
+    "lat": -30.0610951,
+    "lng": -51.1511028,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Avenida Ipiranga, Santa Cecília, Porto Alegre, Rio Grande do Sul, Região Sul, 90610-240, Brasil"
+    "geocodeDisplayName": "Avenida Ipiranga, Jardim das Bandeiras, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-360, Brasil"
   },
   {
     "id": "1-colegio-bom-jesus-sevigne",
@@ -1854,9 +1857,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA COM. EDUARDO SECCO, S/N - IPE I, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.0575366,
+    "lng": -51.1435501,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Érico Veríssimo, Rua Comendador Eduardo Secco, Jardim Nossa Senhora das Graças, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91440-160, Brasil"
   },
   {
     "id": "113-dom-pedro-i-escola-estadual",
@@ -1948,8 +1952,8 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BADEN POWELL, 409 - PARQUE MINUANO, Porto Alegre, RS, Brasil",
-    "lat": -30.0027336,
-    "lng": -51.1383117,
+    "lat": -30.0032335,
+    "lng": -51.1370566,
     "geocodeStatus": "approx",
     "geocodeDisplayName": "Rua Baden Powell, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91110-000, Brasil"
   },
@@ -2027,9 +2031,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV NITEROI - ESQUINA TRAV. VIAMAO, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.0692368,
+    "lng": -51.2081163,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Avenida Niterói, Medianeira, Porto Alegre, Rio Grande do Sul, Região Sul, 90880-270, Brasil"
   },
   {
     "id": "1-trt-tribunal-regional-do-trabalho",
@@ -2250,9 +2255,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. ALCIDES SÃO SEVERINO, 99, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -29.9952962,
+    "lng": -51.1265797,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Colégio Kennedy, 99, Avenida Alcides São Severiano, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91130-500, Brasil"
   },
   {
     "id": "114-alberto-torres-esc-est-ens-med",
@@ -2377,9 +2383,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA AFONSO CELSO PUPE DA SILVEIRA, 25, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.0188362,
+    "lng": -51.1613316,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Dolores Alcaraz Caldas, 25, Rua Affonso Celso Pupe da Silveira, Passo da Areia, Porto Alegre, Rio Grande do Sul, Região Sul, 91360-020, Brasil"
   },
   {
     "id": "2-inss-unidade-reabilitacao-profissional",
@@ -2648,10 +2655,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. JOAQUIM PORTO VILLANOVA, 135 - VILA PINTO, Porto Alegre, RS, Brasil",
-    "lat": -30.0511306,
-    "lng": -51.1594937,
+    "lat": -30.0559036,
+    "lng": -51.1593835,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Avenida Joaquim Porto Villanova, Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, 91410-330, Brasil"
+    "geocodeDisplayName": "Avenida Joaquim Porto Villanova, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-390, Brasil"
   },
   {
     "id": "2-escola-tecnica-estadual-irmao-pedro",
@@ -3112,9 +3119,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA TENENTE ARISOLY FAGUNDES, 250 (RESTINGA NOVA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.1531225,
+    "lng": -51.1434296,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Alberto Pasqualini, 250, Rua Tenente Arizoly Fagundes, 2ª UV, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-520, Brasil"
   },
   {
     "id": "160-e-e-de-1-e-2-graus-odila-gay-da-fonseca",
@@ -3700,10 +3708,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JACKSON DE FIGUEIREDO, 675 - VILA ELIZABETH, Porto Alegre, RS, Brasil",
-    "lat": -29.9827619,
-    "lng": -51.1282352,
+    "lat": -29.9875151,
+    "lng": -51.1278815,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Rua Jackson de Figueiredo, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91120-280, Brasil"
+    "geocodeDisplayName": "Rua Jackson de Figueiredo, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91140-340, Brasil"
   },
   {
     "id": "113-dr-emilio-kemp-escola-estadual",
@@ -4001,9 +4009,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "BECO DO IMPÉRIO, 75 - VILA NOVA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.119446,
+    "lng": -51.2011203,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Campos do Cristal, 75, Beco Império, Vila Nova, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-415, Brasil"
   },
   {
     "id": "114-uniritter-centro-universitario-ritter-dos-reis",
@@ -4379,9 +4388,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ERNESTO DE PAIVA, 139, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.1094862,
+    "lng": -51.2619586,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Clube dos Jangadeiros, Rua Vicente Failace, Tristeza, Porto Alegre, Rio Grande do Sul, Região Sul, 91900-250, Brasil"
   },
   {
     "id": "1-colegio-romano-santa-marta",
@@ -4442,9 +4452,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "PÇA. INÁCIO ANTÔNIO DA SILVA, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.2117688,
+    "lng": -51.183617,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Evarista Flores da Cunha, Praça Inácio Antônio da Silva, Belém Novo, Porto Alegre, Rio Grande do Sul, Região Sul, 91780-330, Brasil"
   },
   {
     "id": "1-palacio-do-min-publico-forte-apache",
@@ -4553,9 +4564,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA MANOEL FARIA ROSA PRIMO, 940 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.1617922,
+    "lng": -51.1435307,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Lidovino Fanton, 940, Rua Manoel Faria da Rosa Primo, Vila Santa Rita, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-519, Brasil"
   },
   {
     "id": "114-simoes-lopes-neto-esc-est-ens-fund",
@@ -4599,9 +4611,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA HONDURAS, 115 - LOT. MARIANTE, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.1124341,
+    "lng": -51.1534234,
+    "geocodeStatus": "approx",
+    "geocodeDisplayName": "Escola Luiz Gama, 115, Miguel Angel Condomino Mariante, Condomínio Mariante, Belém Velho, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
   },
   {
     "id": "161-eeef-genoveva-da-costa-bernardes",
@@ -4728,7 +4741,7 @@
     "geocodeQuery": "RUA DORMENIO, 487 - ESQUINA RUA PRISMA, Porto Alegre, RS, Brasil",
     "lat": -30.076458,
     "lng": -51.2299946,
-    "geocodeStatus": "approx",
+    "geocodeStatus": "ok",
     "geocodeDisplayName": "Beco 1, Santa Tereza, Porto Alegre, Rio Grande do Sul, Região Sul, 90850-250, Brasil"
   },
   {
@@ -4790,10 +4803,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA BELIZE, 261 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
-    "lat": -30.1629051,
-    "lng": -51.1370805,
-    "geocodeStatus": "approx",
-    "geocodeDisplayName": "Rua Belize, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
+    "lat": -30.1579013,
+    "lng": -51.1403577,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola José do Patrocínio, 261, Rua Belize, Vila Núcleo Esperança, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-070, Brasil"
   },
   {
     "id": "160-colegio-marista-ipanema",
@@ -4886,10 +4899,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. CHÁCARA DO BANCO, 71 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
-    "lat": -30.1639935,
-    "lng": -51.1449768,
-    "geocodeStatus": "approx",
-    "geocodeDisplayName": "Estrada Chácara do Banco, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
+    "lat": -30.1639728,
+    "lng": -51.145588,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Paróquia Nossa Senhora Aparecida, 71, Estrada Chácara do Banco, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-000, Brasil"
   },
   {
     "id": "113-ginasio-parque-ararigboia",
@@ -4952,7 +4965,7 @@
     "geocodeQuery": "RUA ABOLIÇÃO, 1 (RESTINGA VELHA), Porto Alegre, RS, Brasil",
     "lat": -30.1578719,
     "lng": -51.138781,
-    "geocodeStatus": "approx",
+    "geocodeStatus": "ok",
     "geocodeDisplayName": "Rua Abolição, Vila Núcleo Esperança, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-070, Brasil"
   },
   {
@@ -5189,10 +5202,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. JOÃO DE OLIVEIRA REMIÃO, 9105 - PDA. 25, Porto Alegre, RS, Brasil",
-    "lat": -30.0989451,
-    "lng": -51.1260032,
+    "lat": -30.1123592,
+    "lng": -51.1098033,
     "geocodeStatus": "approx",
-    "geocodeDisplayName": "Estrada João de Oliveira Remião, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91540-150, Brasil"
+    "geocodeDisplayName": "Estrada João de Oliveira Remião, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91560-640, Brasil"
   },
   {
     "id": "158-cesmar-centro-social-marista",
@@ -5239,7 +5252,7 @@
     "geocodeQuery": "RUA BISPO MARINO PRUDÊNCIO MOREIRA, 95 (5A UNIDADE), Porto Alegre, RS, Brasil",
     "lat": -30.1528476,
     "lng": -51.1336839,
-    "geocodeStatus": "approx",
+    "geocodeStatus": "ok",
     "geocodeDisplayName": "Rua Bispo Marino Prudencio Moreira, Vila Castelo, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-200, Brasil"
   },
   {
@@ -5253,10 +5266,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA C, 1 (VILA CASTELO - 5 UNIDADE), Porto Alegre, RS, Brasil",
-    "lat": -30.2281387,
-    "lng": -51.0587993,
-    "geocodeStatus": "approx",
-    "geocodeDisplayName": "Rua C, Vila Sapolândia, Extrema, Porto Alegre, Rio Grande do Sul, Região Sul, 91787-540, Brasil"
+    "lat": -30.1540666,
+    "lng": -51.1323499,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Escola Mario Quintana, 1, Rua C, Vila Castelo, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-200, Brasil"
   },
   {
     "id": "111-lions-club-p-a-farrapos-esc-est-de-1-grau",
