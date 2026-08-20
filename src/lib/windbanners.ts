@@ -1,4 +1,4 @@
-import { supabase } from "./supabase";
+import { getSupabase } from "./supabase";
 import type { PointStatus, RouteStatus, WindbannerPoint, WindbannerRoute, WindbannerRouteWithPoints } from "./windbanner-types";
 import type { GeocodeStatus } from "./types";
 
@@ -57,6 +57,7 @@ function rowToPoint(row: PointRow): WindbannerPoint {
 }
 
 export async function getRoutesWithPoints(): Promise<WindbannerRouteWithPoints[]> {
+  const supabase = getSupabase();
   const { data: routeRows, error: routesError } = await supabase
     .from("windbanner_routes")
     .select("*")
@@ -84,6 +85,7 @@ export async function getRoutesWithPoints(): Promise<WindbannerRouteWithPoints[]
 }
 
 export async function getRouteWithPoints(id: string): Promise<WindbannerRouteWithPoints | null> {
+  const supabase = getSupabase();
   const { data: routeRow, error: routeError } = await supabase.from("windbanner_routes").select("*").eq("id", id).maybeSingle();
   if (routeError) throw routeError;
   if (!routeRow) return null;
@@ -108,6 +110,7 @@ export interface CreateRouteInput {
 }
 
 export async function createRoute(input: CreateRouteInput): Promise<WindbannerRoute> {
+  const supabase = getSupabase();
   const { data, error } = await supabase
     .from("windbanner_routes")
     .insert({ nome: input.nome, responsavel: input.responsavel, data_prevista: input.dataPrevista ?? null })
@@ -125,6 +128,7 @@ export interface UpdateRouteInput {
 }
 
 export async function updateRoute(id: string, input: UpdateRouteInput): Promise<WindbannerRoute> {
+  const supabase = getSupabase();
   const patch: Record<string, unknown> = { updated_at: new Date().toISOString() };
   if (input.nome !== undefined) patch.nome = input.nome;
   if (input.responsavel !== undefined) patch.responsavel = input.responsavel;
@@ -137,6 +141,7 @@ export async function updateRoute(id: string, input: UpdateRouteInput): Promise<
 }
 
 export async function deleteRoute(id: string): Promise<void> {
+  const supabase = getSupabase();
   const { error } = await supabase.from("windbanner_routes").delete().eq("id", id);
   if (error) throw error;
 }
@@ -150,6 +155,7 @@ export interface AddPointInput {
 }
 
 export async function addPoint(routeId: string, input: AddPointInput): Promise<WindbannerPoint> {
+  const supabase = getSupabase();
   const { data, error } = await supabase
     .from("windbanner_points")
     .insert({
@@ -177,6 +183,7 @@ export interface UpdatePointInput {
 }
 
 export async function updatePoint(id: string, input: UpdatePointInput): Promise<WindbannerPoint> {
+  const supabase = getSupabase();
   const patch: Record<string, unknown> = { updated_at: new Date().toISOString() };
   if (input.endereco !== undefined) patch.endereco = input.endereco;
   if (input.ordem !== undefined) patch.ordem = input.ordem;
@@ -195,10 +202,12 @@ export async function updatePoint(id: string, input: UpdatePointInput): Promise<
 }
 
 export async function deletePoint(id: string): Promise<void> {
+  const supabase = getSupabase();
   const { error } = await supabase.from("windbanner_points").delete().eq("id", id);
   if (error) throw error;
 }
 
 export async function reorderPoints(orderedIds: string[]): Promise<void> {
+  const supabase = getSupabase();
   await Promise.all(orderedIds.map((id, index) => supabase.from("windbanner_points").update({ ordem: index }).eq("id", id)));
 }
