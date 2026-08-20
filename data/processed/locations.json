@@ -234,9 +234,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA SGT. SILVIO DELMAR HOLLENBACH, 69, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.01779664572911,
+    "lng": -51.11019479151743,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "111-casa-do-pequeno-operario-dom-bosco",
@@ -249,9 +250,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "EDUARDO CHARTTIER N 360, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.01246875802935,
+    "lng": -51.1805099437607,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "158-instituto-de-educacao-sao-francisco",
@@ -584,9 +586,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "AV. SAO JOSE DO NORTE, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.10382925494787,
+    "lng": -51.170204953287026,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "2-colegio-marista-nossa-senhora-do-rosario",
@@ -1031,9 +1034,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA PRUDENTE DE MORAIS, 57, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.03347742063982,
+    "lng": -51.163858564134905,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "112-colegio-estadual-prof-elmano-lauffer-leal",
@@ -1190,9 +1194,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. PROFESSOR PAULA SOARES, 1095, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.01965097890021,
+    "lng": -51.14109653497051,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "114-pastor-dohms-centro-de-ensino-medio",
@@ -1509,9 +1514,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOSÉ ALBANO WOLKMER, 347 (ESQ RUA MARTA COSTA FRANZEN), Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.051054480042247,
+    "lng": -51.16247646245723,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "160-sociedade-educacional-leonardo-da-vinci-beta",
@@ -1924,9 +1930,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "ESTR. DAS QUIRINAS, PRÓX. PDA. 27, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.155666949987932,
+    "lng": -51.083602121372564,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "112-clube-comercial-sarandi",
@@ -2019,9 +2026,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ANGELITO ASMUZ AIQUEL,125, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.023838740861017,
+    "lng": -51.17445650039486,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "114-venezuela-esc-est-ens-fund",
@@ -3138,9 +3146,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV. OSVALDO GONCALVES CRUZ, 444, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.136896168341778,
+    "lng": -51.22465652080443,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "113-partenon-tenis-clube",
@@ -3233,9 +3242,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA JOAO TELES, 508, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.03379225710779,
+    "lng": -51.211755888381965,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "111-imperatriz-dona-leopoldina-e-e-e-f",
@@ -3520,9 +3530,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA FURRIEL LUIZ ANTONIO VARGAS , 135, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.02808806250228,
+    "lng": -51.18338540266367,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "113-associacao-israelita-circulo-social-e-esportivo",
@@ -3903,9 +3914,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA DR CAIO BRANDÃO DE MELO S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -29.980320947922674,
+    "lng": -51.18543621965614,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "1-escola-mae-admiravel",
@@ -3966,9 +3978,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "RUA CAIO BRANDAO DE MELO, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -29.979796458187625,
+    "lng": -51.18765711495578,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "2-escola-estadual-luciana-de-abreu",
@@ -3997,9 +4010,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "EST. ANTÔNIO SEVERINO, 109 - VILA VARIG, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.015378100002525,
+    "lng": -51.09957826468882,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "161-emef-campos-do-cristal",
@@ -4044,9 +4058,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA EUSTÁQUIO INÁCIO DA SILVEIRA, 300, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.210286876063318,
+    "lng": -51.176547289405136,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "114-cidade-jardim-esc-est-ens-fund",
@@ -4059,9 +4074,10 @@
     "pais": "Brasil",
     "semNumero": true,
     "geocodeQuery": "AV. FABIO ARAUJO SANTOS, S/N, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.094538209608423,
+    "lng": -51.22064787917973,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "2-colegio-vicentino-santa-cecilia",
@@ -4346,9 +4362,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA D QUADRA 28, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -29.980347589151528,
+    "lng": -51.19192343928366,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "161-eeef-dr-jose-loureiro-da-silva",
@@ -4377,9 +4394,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA ROMEU VASCONCELOS ROSA, 10, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.12920133173421,
+    "lng": -51.2160867502646,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "160-clube-dos-jangadeiros",
@@ -4584,9 +4602,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA IRMAO PEDRO, 82, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.085188442845432,
+    "lng": -51.20681556010939,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "160-tristezense-piscina-clube",
@@ -5095,9 +5114,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "TRAVESSA HEIZELMANN N 250, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -29.993630299872017,
+    "lng": -51.197532126030666,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "2-conselho-regional-de-quimica",
@@ -5350,9 +5370,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "RUA VER. ROBERTO LANDELL DE MOURA, 448, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.14175284533394,
+    "lng": -51.200607532773624,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "1-escola-estadual-maria-jose-mabilde-i-pintada",
@@ -5365,9 +5386,10 @@
     "pais": "Brasil",
     "semNumero": false,
     "geocodeQuery": "AV.PRES.VARGAS,129(ANTIGA RUA N.SRA DA BOA VIAGEM,300) ILHA DA PINTADA, Porto Alegre, RS, Brasil",
-    "lat": null,
-    "lng": null,
-    "geocodeStatus": "failed"
+    "lat": -30.027739342937053,
+    "lng": -51.25239902245709,
+    "geocodeStatus": "ok",
+    "geocodeDisplayName": "Coordenada obtida manualmente via Google Maps (equipe da campanha)"
   },
   {
     "id": "161-eeef-pedro-americo",
