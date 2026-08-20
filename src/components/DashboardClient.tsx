@@ -1,8 +1,11 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import Link from "next/link";
+import { useEffect, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
 import type { CandidateConfig, LocationWithVotes, Zona } from "@/lib/types";
+import type { WindbannerRouteWithPoints } from "@/lib/windbanner-types";
+import { fetchRoutes } from "@/lib/windbanner-client";
 import StatCards from "./StatCards";
 import ViewToggle, { type MapViewMode } from "./ViewToggle";
 import ZonaFilter from "./ZonaFilter";
@@ -29,6 +32,14 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
   const [mode, setMode] = useState<MapViewMode>("heatmap");
   const [selectedZonas, setSelectedZonas] = useState<Set<number>>(new Set(zonas.map((z) => z.zona)));
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [showWindbanners, setShowWindbanners] = useState(false);
+  const [windbannerRoutes, setWindbannerRoutes] = useState<WindbannerRouteWithPoints[]>([]);
+
+  useEffect(() => {
+    fetchRoutes()
+      .then(setWindbannerRoutes)
+      .catch(() => {});
+  }, []);
 
   const filteredLocations = useMemo(
     () => locations.filter((l) => selectedZonas.has(l.zona)),
@@ -70,6 +81,20 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
       <div className="flex flex-wrap items-center gap-2 border-b border-slate-200 bg-white px-4 py-2 sm:px-6">
         <ViewToggle mode={mode} onChange={setMode} />
         <ZonaFilter zonas={zonas} selected={selectedZonas} onChange={setSelectedZonas} />
+        <button
+          type="button"
+          onClick={() => setShowWindbanners((v) => !v)}
+          className={`rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors ${
+            showWindbanners
+              ? "border-slate-900 bg-slate-900 text-white"
+              : "border-slate-200 bg-white text-slate-600 hover:bg-slate-100"
+          }`}
+        >
+          Windbanners {windbannerRoutes.length > 0 ? `(${windbannerRoutes.length})` : ""}
+        </button>
+        <Link href="/admin" className="text-xs text-slate-400 hover:text-slate-700 hover:underline">
+          Admin
+        </Link>
         <span className="ml-auto text-xs text-slate-500">
           {filteredLocations.reduce((s, l) => s + l.votos, 0).toLocaleString("pt-BR")} votos em{" "}
           {filteredLocations.length} locais exibidos
@@ -88,7 +113,14 @@ export default function DashboardClient({ candidate, zonas, locations, totalVoto
 
       <div className="flex min-h-0 flex-1 flex-col md:flex-row">
         <div className="min-h-[45vh] flex-1 md:min-h-0">
-          <MapView locations={filteredLocations} mode={mode} selectedId={selectedId} onSelect={(l) => setSelectedId(l.id)} />
+          <MapView
+            locations={filteredLocations}
+            mode={mode}
+            selectedId={selectedId}
+            onSelect={(l) => setSelectedId(l.id)}
+            windbannerRoutes={windbannerRoutes}
+            showWindbanners={showWindbanners}
+          />
         </div>
         <aside className="w-full shrink-0 border-t border-slate-200 bg-white md:h-auto md:w-80 md:border-l md:border-t-0">
           <LocationPanel
