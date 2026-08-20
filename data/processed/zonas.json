@@ -1,0 +1,82 @@
+[
+  {
+    "zona": 159,
+    "regiao": "Partenon / Bento Gonçalves / Morro Santana",
+    "votos": 1885,
+    "secoes": 293,
+    "locais": 26,
+    "pctTotal": 21.9
+  },
+  {
+    "zona": 113,
+    "regiao": "Glória / Cascata / Cristal",
+    "votos": 1201,
+    "secoes": 292,
+    "locais": 29,
+    "pctTotal": 14
+  },
+  {
+    "zona": 112,
+    "regiao": "Sarandi / Passo D'Areia / Jardim Sabará",
+    "votos": 1045,
+    "secoes": 296,
+    "locais": 31,
+    "pctTotal": 12.1
+  },
+  {
+    "zona": 2,
+    "regiao": "Centro Histórico / Bom Fim / Floresta",
+    "votos": 877,
+    "secoes": 321,
+    "locais": 44,
+    "pctTotal": 10.2
+  },
+  {
+    "zona": 111,
+    "regiao": "Auxiliadora / Higienópolis / Passo da Areia",
+    "votos": 775,
+    "secoes": 243,
+    "locais": 34,
+    "pctTotal": 9
+  },
+  {
+    "zona": 158,
+    "regiao": "Sarandi / Rubem Berta / Jardim Leopoldina",
+    "votos": 683,
+    "secoes": 248,
+    "locais": 24,
+    "pctTotal": 7.9
+  },
+  {
+    "zona": 114,
+    "regiao": "Cristal / Cavalhada / Camaquã",
+    "votos": 668,
+    "secoes": 256,
+    "locais": 32,
+    "pctTotal": 7.8
+  },
+  {
+    "zona": 1,
+    "regiao": "Menino Deus / Cidade Baixa / Praia de Belas",
+    "votos": 608,
+    "secoes": 269,
+    "locais": 45,
+    "pctTotal": 7.1
+  },
+  {
+    "zona": 160,
+    "regiao": "Cavalhada / Vila Nova / Ipanema",
+    "votos": 470,
+    "secoes": 214,
+    "locais": 34,
+    "pctTotal": 5.5
+  },
+  {
+    "zona": 161,
+    "regiao": "Restinga / Hípica / Belém Novo",
+    "votos": 391,
+    "secoes": 180,
+    "locais": 40,
+    "pctTotal": 4.5
+  }
+]

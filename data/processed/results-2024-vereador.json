@@ -1,0 +1,1787 @@
+{
+  "eleicaoId": "2024-vereador",
+  "ano": 2024,
+  "cargo": "Vereador",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "totalVotos": 8603,
+  "zonas": [
+    {
+      "zona": 159,
+      "regiao": "Partenon / Bento Gonçalves / Morro Santana",
+      "votos": 1885,
+      "secoes": 293,
+      "locais": 26,
+      "pctTotal": 21.9
+    },
+    {
+      "zona": 113,
+      "regiao": "Glória / Cascata / Cristal",
+      "votos": 1201,
+      "secoes": 292,
+      "locais": 29,
+      "pctTotal": 14
+    },
+    {
+      "zona": 112,
+      "regiao": "Sarandi / Passo D'Areia / Jardim Sabará",
+      "votos": 1045,
+      "secoes": 296,
+      "locais": 31,
+      "pctTotal": 12.1
+    },
+    {
+      "zona": 2,
+      "regiao": "Centro Histórico / Bom Fim / Floresta",
+      "votos": 877,
+      "secoes": 321,
+      "locais": 44,
+      "pctTotal": 10.2
+    },
+    {
+      "zona": 111,
+      "regiao": "Auxiliadora / Higienópolis / Passo da Areia",
+      "votos": 775,
+      "secoes": 243,
+      "locais": 34,
+      "pctTotal": 9
+    },
+    {
+      "zona": 158,
+      "regiao": "Sarandi / Rubem Berta / Jardim Leopoldina",
+      "votos": 683,
+      "secoes": 248,
+      "locais": 24,
+      "pctTotal": 7.9
+    },
+    {
+      "zona": 114,
+      "regiao": "Cristal / Cavalhada / Camaquã",
+      "votos": 668,
+      "secoes": 256,
+      "locais": 32,
+      "pctTotal": 7.8
+    },
+    {
+      "zona": 1,
+      "regiao": "Menino Deus / Cidade Baixa / Praia de Belas",
+      "votos": 608,
+      "secoes": 269,
+      "locais": 45,
+      "pctTotal": 7.1
+    },
+    {
+      "zona": 160,
+      "regiao": "Cavalhada / Vila Nova / Ipanema",
+      "votos": 470,
+      "secoes": 214,
+      "locais": 34,
+      "pctTotal": 5.5
+    },
+    {
+      "zona": 161,
+      "regiao": "Restinga / Hípica / Belém Novo",
+      "votos": 391,
+      "secoes": 180,
+      "locais": 40,
+      "pctTotal": 4.5
+    }
+  ],
+  "locais": [
+    {
+      "locationId": "159-colegio-de-aplicacao-da-ufrgs",
+      "votos": 561,
+      "pctTotal": 6.52
+    },
+    {
+      "locationId": "113-edgar-luiz-schneider-escola-estadual",
+      "votos": 214,
+      "pctTotal": 2.49
+    },
+    {
+      "locationId": "159-esc-est-de-1-grau-prof-alcides-cunha",
+      "votos": 205,
+      "pctTotal": 2.38
+    },
+    {
+      "locationId": "159-pucrs-pontificia-universidade-catolica-predio-50",
+      "votos": 122,
+      "pctTotal": 1.42
+    },
+    {
+      "locationId": "159-esc-est-de-1-grau-min-salgado-filho",
+      "votos": 118,
+      "pctTotal": 1.37
+    },
+    {
+      "locationId": "159-colegio-marista-champagnat",
+      "votos": 105,
+      "pctTotal": 1.22
+    },
+    {
+      "locationId": "159-esc-est-de-1-grau-inc-desiderio-torquato-finamor",
+      "votos": 95,
+      "pctTotal": 1.1
+    },
+    {
+      "locationId": "112-escola-estadual-de-ensino-fundamental-japao",
+      "votos": 93,
+      "pctTotal": 1.08
+    },
+    {
+      "locationId": "158-santa-rosa-esc-est-de-ens-medio",
+      "votos": 77,
+      "pctTotal": 0.9
+    },
+    {
+      "locationId": "113-gema-angelina-belia-escola-estadual",
+      "votos": 76,
+      "pctTotal": 0.88
+    },
+    {
+      "locationId": "114-prof-oscar-pereira-esc-est-ens-med",
+      "votos": 75,
+      "pctTotal": 0.87
+    },
+    {
+      "locationId": "159-escola-estadual-rafaela-remiao",
+      "votos": 72,
+      "pctTotal": 0.84
+    },
+    {
+      "locationId": "159-esc-mun-de-1-grau-afonso-guerreiro-lima",
+      "votos": 66,
+      "pctTotal": 0.77
+    },
+    {
+      "locationId": "113-santo-antonio-colegio",
+      "votos": 64,
+      "pctTotal": 0.74
+    },
+    {
+      "locationId": "158-baltazar-de-oliveira-garcia-esc-est-de-ens-medio",
+      "votos": 63,
+      "pctTotal": 0.73
+    },
+    {
+      "locationId": "111-casa-do-pequeno-operario-dom-bosco",
+      "votos": 62,
+      "pctTotal": 0.72
+    },
+    {
+      "locationId": "158-instituto-de-educacao-sao-francisco",
+      "votos": 61,
+      "pctTotal": 0.71
+    },
+    {
+      "locationId": "113-otavio-rocha-escola-estadual",
+      "votos": 61,
+      "pctTotal": 0.71
+    },
+    {
+      "locationId": "113-nossa-senhora-da-gloria-colegio",
+      "votos": 59,
+      "pctTotal": 0.69
+    },
+    {
+      "locationId": "112-instituto-educacional-sao-judas-tadeu",
+      "votos": 59,
+      "pctTotal": 0.69
+    },
+    {
+      "locationId": "112-colegio-santa-doroteia",
+      "votos": 57,
+      "pctTotal": 0.66
+    },
+    {
+      "locationId": "2-colegio-nossa-senhora-do-bom-conselho",
+      "votos": 53,
+      "pctTotal": 0.62
+    },
+    {
+      "locationId": "158-mariz-e-barros-esc-est-de-ens-medio",
+      "votos": 53,
+      "pctTotal": 0.62
+    },
+    {
+      "locationId": "112-itamarati-esc-est-de-ens-fundamental",
+      "votos": 52,
+      "pctTotal": 0.6
+    },
+    {
+      "locationId": "114-vera-cruz-esc-est-ens-fund",
+      "votos": 51,
+      "pctTotal": 0.59
+    },
+    {
+      "locationId": "112-escola-sao-luiz-guanella",
+      "votos": 51,
+      "pctTotal": 0.59
+    },
+    {
+      "locationId": "159-esc-est-de-ensino-medio-agronomo-pedro-pereira",
+      "votos": 51,
+      "pctTotal": 0.59
+    },
+    {
+      "locationId": "112-escola-estadual-dom-diogo-de-souza",
+      "votos": 51,
+      "pctTotal": 0.59
+    },
+    {
+      "locationId": "159-esc-mun-de-1-grau-heitor-villa-lobos-ciem",
+      "votos": 51,
+      "pctTotal": 0.59
+    },
+    {
+      "locationId": "113-prof-leopoldo-tietbohl-escola-estadual",
+      "votos": 50,
+      "pctTotal": 0.58
+    },
+    {
+      "locationId": "113-mauricio-sirotsky-sobrinho-escola-estadual",
+      "votos": 50,
+      "pctTotal": 0.58
+    },
+    {
+      "locationId": "113-padre-balduino-rambo-escola-estadual",
+      "votos": 48,
+      "pctTotal": 0.56
+    },
+    {
+      "locationId": "113-antao-de-faria-escola-estadual",
+      "votos": 47,
+      "pctTotal": 0.55
+    },
+    {
+      "locationId": "158-governador-ildo-meneghetti-esc-municipal-de-ens-fundamental",
+      "votos": 46,
+      "pctTotal": 0.53
+    },
+    {
+      "locationId": "113-gen-iba-ilha-moreira-escola-estadual",
+      "votos": 45,
+      "pctTotal": 0.52
+    },
+    {
+      "locationId": "111-esc-estadual-de-ensino-fund-e-medio-mons-leopoldo-hoff",
+      "votos": 45,
+      "pctTotal": 0.52
+    },
+    {
+      "locationId": "114-anita-garibaldi-esc-est-ens-fund-inc",
+      "votos": 45,
+      "pctTotal": 0.52
+    },
+    {
+      "locationId": "2-colegio-marista-nossa-senhora-do-rosario",
+      "votos": 45,
+      "pctTotal": 0.52
+    },
+    {
+      "locationId": "113-esef-escola-superior-de-educacao-fisica",
+      "votos": 45,
+      "pctTotal": 0.52
+    },
+    {
+      "locationId": "111-pan-american-school-antigo-colegio-vera-cruz",
+      "votos": 44,
+      "pctTotal": 0.51
+    },
+    {
+      "locationId": "112-escola-de-ensino-fundamental-e-medio-jose-cesar-mesquita",
+      "votos": 44,
+      "pctTotal": 0.51
+    },
+    {
+      "locationId": "159-colegio-sao-jose-do-murialdo",
+      "votos": 44,
+      "pctTotal": 0.51
+    },
+    {
+      "locationId": "112-colegio-sinodal-do-salvador",
+      "votos": 44,
+      "pctTotal": 0.51
+    },
+    {
+      "locationId": "112-colegio-romano-senhor-bom-jesus",
+      "votos": 42,
+      "pctTotal": 0.49
+    },
+    {
+      "locationId": "2-colegio-leonardo-da-vinci-alfa",
+      "votos": 42,
+      "pctTotal": 0.49
+    },
+    {
+      "locationId": "158-joao-antonio-satte-esc-municipal-de-ens-fundamental",
+      "votos": 42,
+      "pctTotal": 0.49
+    },
+    {
+      "locationId": "159-esc-est-de-ensino-fundamental-onofre-pires",
+      "votos": 42,
+      "pctTotal": 0.49
+    },
+    {
+      "locationId": "158-david-canabarro-esc-est-de-ens-fundamental",
+      "votos": 42,
+      "pctTotal": 0.49
+    },
+    {
+      "locationId": "112-escola-estadual-de-ensino-fundamental-toyama",
+      "votos": 41,
+      "pctTotal": 0.48
+    },
+    {
+      "locationId": "111-instituto-piratini",
+      "votos": 41,
+      "pctTotal": 0.48
+    },
+    {
+      "locationId": "158-min-poty-medeiros-esc-est-de-ens-fundamental",
+      "votos": 41,
+      "pctTotal": 0.48
+    },
+    {
+      "locationId": "111-anchieta-colegio",
+      "votos": 41,
+      "pctTotal": 0.48
+    },
+    {
+      "locationId": "159-esc-est-de-ensino-fundamental-maria-cristina-chika",
+      "votos": 41,
+      "pctTotal": 0.48
+    },
+    {
+      "locationId": "161-emef-moradas-da-hipica",
+      "votos": 40,
+      "pctTotal": 0.46
+    },
+    {
+      "locationId": "1-escola-estadual-presidente-roosevelt",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "113-fernando-gomes-escola-estadual",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "159-esc-mun-de-1-grau-sao-pedro",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "159-esc-est-de-1-grau-inc-jeronimo-de-albuquerque",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "112-escola-est-de-ens-medio-republica-argentina",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "158-decio-martins-costa-e-m-e-f-santo-agostinho",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "111-ceasa-porto-alegre",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "113-nossa-senhora-de-fatima-escola-municipal",
+      "votos": 39,
+      "pctTotal": 0.45
+    },
+    {
+      "locationId": "113-santa-ines-colegio",
+      "votos": 38,
+      "pctTotal": 0.44
+    },
+    {
+      "locationId": "112-escola-de-ensino-fundamental-e-medio-ruben-berta",
+      "votos": 38,
+      "pctTotal": 0.44
+    },
+    {
+      "locationId": "111-escola-de-ensino-fundamental-prudente-de-morais",
+      "votos": 36,
+      "pctTotal": 0.42
+    },
+    {
+      "locationId": "112-colegio-estadual-prof-elmano-lauffer-leal",
+      "votos": 36,
+      "pctTotal": 0.42
+    },
+    {
+      "locationId": "114-assuncao-colegio-marista",
+      "votos": 35,
+      "pctTotal": 0.41
+    },
+    {
+      "locationId": "2-associacao-leopoldina-juvenil",
+      "votos": 35,
+      "pctTotal": 0.41
+    },
+    {
+      "locationId": "113-padre-rambo-escola-estadual",
+      "votos": 35,
+      "pctTotal": 0.41
+    },
+    {
+      "locationId": "114-emilio-meyer-esc-munic",
+      "votos": 35,
+      "pctTotal": 0.41
+    },
+    {
+      "locationId": "112-escola-estadual-ensino-basico-gomes-carneiro",
+      "votos": 35,
+      "pctTotal": 0.41
+    },
+    {
+      "locationId": "113-coelho-neto-escola-estadual",
+      "votos": 35,
+      "pctTotal": 0.41
+    },
+    {
+      "locationId": "112-lindoia-tenis-clube",
+      "votos": 34,
+      "pctTotal": 0.4
+    },
+    {
+      "locationId": "111-secretaria-municipal-do-meio-ambiente",
+      "votos": 34,
+      "pctTotal": 0.4
+    },
+    {
+      "locationId": "112-escola-de-ensino-fundamental-e-medio-italia",
+      "votos": 34,
+      "pctTotal": 0.4
+    },
+    {
+      "locationId": "114-pastor-dohms-centro-de-ensino-medio",
+      "votos": 34,
+      "pctTotal": 0.4
+    },
+    {
+      "locationId": "111-carlos-rodrigues-da-silva-escola-estadual",
+      "votos": 32,
+      "pctTotal": 0.37
+    },
+    {
+      "locationId": "2-instituto-metodista-de-educacao-e-cultura",
+      "votos": 32,
+      "pctTotal": 0.37
+    },
+    {
+      "locationId": "111-visconde-de-pelotas-e-e-de-1-grau",
+      "votos": 32,
+      "pctTotal": 0.37
+    },
+    {
+      "locationId": "112-prof-marieta-da-cunha-silva-esc-est-de-ens-fundamental",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "159-escola-de-1-grau-nossa-senhora-do-brasil",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "2-escola-estadual-apeles-porto-alegre",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "111-sao-joao-colegio",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "2-colegio-batista",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "159-puc-predio-11-secoes-eeef-dr-martins-costa-junior",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "112-lidia-moschetti-esc-est-de-ens-fundamental",
+      "votos": 31,
+      "pctTotal": 0.36
+    },
+    {
+      "locationId": "2-salao-paroquial-igreja-sao-sebastiao",
+      "votos": 30,
+      "pctTotal": 0.35
+    },
+    {
+      "locationId": "2-escola-estadual-ensino-medio-anne-frank",
+      "votos": 30,
+      "pctTotal": 0.35
+    },
+    {
+      "locationId": "111-colegio-farroupilha",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "2-escola-estadual-ens-fundamental-medianeira",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "114-universitario-colegio",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "1-escola-estadual-duque-de-caxias",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "160-e-m-vila-montecristo",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "113-gremio-nautico-uniao-sede-petropole-tenis-clube",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "113-prof-lea-rosa-cecchini-brum-escola-estadual",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "160-sociedade-educacional-leonardo-da-vinci-beta",
+      "votos": 29,
+      "pctTotal": 0.34
+    },
+    {
+      "locationId": "2-colegio-estadual-julio-de-castilhos",
+      "votos": 28,
+      "pctTotal": 0.33
+    },
+    {
+      "locationId": "111-instituto-sao-francisco-pallotti",
+      "votos": 28,
+      "pctTotal": 0.33
+    },
+    {
+      "locationId": "161-cesi-zona-sul",
+      "votos": 28,
+      "pctTotal": 0.33
+    },
+    {
+      "locationId": "158-dep-victor-issler-esc-municipal-de-ens-fundamental",
+      "votos": 28,
+      "pctTotal": 0.33
+    },
+    {
+      "locationId": "111-esc-estadual-de-ensino-fund-e-medio-sarmento-leite",
+      "votos": 28,
+      "pctTotal": 0.33
+    },
+    {
+      "locationId": "159-esc-est-de-1-grau-araujo-viana",
+      "votos": 28,
+      "pctTotal": 0.33
+    },
+    {
+      "locationId": "112-escola-estadual-de-ensino-fundamental-ana-neri",
+      "votos": 27,
+      "pctTotal": 0.31
+    },
+    {
+      "locationId": "2-escola-estadual-brasilia",
+      "votos": 27,
+      "pctTotal": 0.31
+    },
+    {
+      "locationId": "159-esc-mun-de-1-grau-inc-saint-hilaire",
+      "votos": 27,
+      "pctTotal": 0.31
+    },
+    {
+      "locationId": "111-sociedade-ginastica-porto-alegre",
+      "votos": 27,
+      "pctTotal": 0.31
+    },
+    {
+      "locationId": "159-faculdade-de-direito-pucrs-predio-11",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "1-colegio-bom-jesus-sevigne",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "2-instituto-estadual-rio-branco",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "1-colegio-la-salle-dores",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "2-colegio-israelita-brasileiro",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "112-escola-municipal-pepita-de-leao",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "112-presidente-vargas-esc-municipal-de-ens-fundamental",
+      "votos": 26,
+      "pctTotal": 0.3
+    },
+    {
+      "locationId": "114-maria-imaculada-colegio",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "160-associacao-de-ensino-santa-teresa-de-jesus",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "111-goncalves-dias-escola-estadual",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "113-erico-verissimo-escola-estadual",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "113-dom-pedro-i-escola-estadual",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "113-prof-otavio-de-souza-escola-estadual",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "111-florinda-tubino-sampaio-escola-estadual",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "161-eeef-solimoes",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "112-clube-comercial-sarandi",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "112-pres-arthur-da-costa-e-silva-colegio-est-de-ens-medio",
+      "votos": 25,
+      "pctTotal": 0.29
+    },
+    {
+      "locationId": "114-prof-elpidio-ferreira-paes-esc-est",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "114-jose-loureiro-da-silva-esc-munic",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "2-escola-estadual-uruguai",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "111-bahia-e-e-e-f",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "114-venezuela-esc-est-ens-fund",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "1-trt-tribunal-regional-do-trabalho",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "111-pastor-dohms-ginasio-evangelico",
+      "votos": 24,
+      "pctTotal": 0.28
+    },
+    {
+      "locationId": "160-colegio-estadual-conego-paulo-de-nadal",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "161-ce-engenheiro-ildo-meneghetti",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "114-parana-esc-est-ens-fund",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "158-escola-adventista-sarandi",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "158-centro-de-ensino-medio-pastor-dohms-unidade-zona-norte",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "2-escola-estadual-daltro-filho",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "160-instituto-santa-luzia",
+      "votos": 23,
+      "pctTotal": 0.27
+    },
+    {
+      "locationId": "113-aldo-locatelli-escola-estadual",
+      "votos": 22,
+      "pctTotal": 0.26
+    },
+    {
+      "locationId": "1-tribunal-de-justica-do-rs-palacio",
+      "votos": 22,
+      "pctTotal": 0.26
+    },
+    {
+      "locationId": "2-escola-estadual-sao-francisco-de-assis",
+      "votos": 22,
+      "pctTotal": 0.26
+    },
+    {
+      "locationId": "1-escola-sao-francisco-menino-deus",
+      "votos": 22,
+      "pctTotal": 0.26
+    },
+    {
+      "locationId": "112-colegio-kennedy",
+      "votos": 22,
+      "pctTotal": 0.26
+    },
+    {
+      "locationId": "114-alberto-torres-esc-est-ens-med",
+      "votos": 22,
+      "pctTotal": 0.26
+    },
+    {
+      "locationId": "114-dr-pacheco-prates-esc-est-ens-fund",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "114-dr-victor-de-britto-esc-est-ens-fund",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "159-paulo-da-gama-escola-estadual",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "161-eeef-araguaia",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "158-araujo-porto-alegre-esc-est-de-ens-fundamental",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "1-escola-estadual-rio-de-janeiro",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "112-escola-estadual-de-educacao-basica-dolores-alcaraz-caldas",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "2-inss-unidade-reabilitacao-profissional",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "113-prof-otavio-de-souza-escola-estadual-secoes-do-salao-paroqui",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "2-escola-estadual-gabriela-mistral",
+      "votos": 21,
+      "pctTotal": 0.24
+    },
+    {
+      "locationId": "158-julio-brunelli-esc-est-de-ens-fundamental",
+      "votos": 20,
+      "pctTotal": 0.23
+    },
+    {
+      "locationId": "160-escola-estadual-roque-gonzales",
+      "votos": 20,
+      "pctTotal": 0.23
+    },
+    {
+      "locationId": "160-escola-estadual-tres-de-outubro",
+      "votos": 20,
+      "pctTotal": 0.23
+    },
+    {
+      "locationId": "160-e-e-1-g-jardim-vila-nova",
+      "votos": 20,
+      "pctTotal": 0.23
+    },
+    {
+      "locationId": "160-e-e-1-g-paraiba",
+      "votos": 20,
+      "pctTotal": 0.23
+    },
+    {
+      "locationId": "161-emef-prof-anisio-teixeira",
+      "votos": 20,
+      "pctTotal": 0.23
+    },
+    {
+      "locationId": "2-nucleo-de-educacao-darcy-vargas",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "158-padre-leo-esc-est-de-ens-fundamental",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "2-centro-municipal-de-educacao-trabalhadores-paulo-freire",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "2-clube-caixeiros-viajantes",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "158-bento-goncalves-esc-est-de-ensino-fundamental",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "159-esc-est-dr-oscar-tollens",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "160-escola-adventista-de-porto-alegre",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "113-jose-mariano-beck-escola-municipal",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "2-escola-tecnica-estadual-irmao-pedro",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "114-joao-xxiii-fund-educ",
+      "votos": 19,
+      "pctTotal": 0.22
+    },
+    {
+      "locationId": "159-emef-deputado-marcirio-goulart-loureiro",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "161-emef-prof-larry-jose-ribeiro-alves-ciem",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "1-escola-estadual-paula-soares",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "1-escola-estadual-candido-portinari",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "114-prof-afonso-guerreiro-lima-esc-est-ens-fund",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "160-colegio-mae-de-deus",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "2-colegio-marista-sao-pedro",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "114-brigadeiro-silva-paes-esc-est-ens-fund",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "113-cel-aparicio-borges-escola-estadual",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "1-escola-estadual-afonso-emilio-massot",
+      "votos": 18,
+      "pctTotal": 0.21
+    },
+    {
+      "locationId": "112-dr-ferreira-de-abreu-esc-est-de-ens-fundamental",
+      "votos": 17,
+      "pctTotal": 0.2
+    },
+    {
+      "locationId": "160-esc-est-santos-dumont",
+      "votos": 17,
+      "pctTotal": 0.2
+    },
+    {
+      "locationId": "158-chico-mendes-esc-municipal-de-ens-fundamental",
+      "votos": 17,
+      "pctTotal": 0.2
+    },
+    {
+      "locationId": "1-escola-estadual-infante-dom-henrique",
+      "votos": 17,
+      "pctTotal": 0.2
+    },
+    {
+      "locationId": "161-eeef-prof-langendonck",
+      "votos": 17,
+      "pctTotal": 0.2
+    },
+    {
+      "locationId": "160-escola-estadual-otavio-mangabeira",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "2-escola-estadual-olegario-mariano",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "2-gremio-nautico-uniao",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "160-escola-estadual-landel-de-moura",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "111-recanto-da-alegria-e-e-e-ant-postao",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "114-jeronimo-de-ornelas-esc-est-ens-fund",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "159-esc-mun-ensino-fund-profa-judith-macedo-de-araujo",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "1-escola-la-salle-pao-dos-pobres",
+      "votos": 16,
+      "pctTotal": 0.19
+    },
+    {
+      "locationId": "2-escola-estadual-souza-lobo",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "1-escola-estadual-inacio-montanha",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "1-estacio-fargs-faculdades-rio-grandenses",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "161-emef-senador-alberto-pasqualini",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "160-e-e-de-1-e-2-graus-odila-gay-da-fonseca",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "113-partenon-tenis-clube",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "160-escola-estadual-padre-reus",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "1-senac-tech",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "111-nossa-senhora-do-cenaculo-e-e-f",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "2-escola-de-aplicacao-dinah-neri-pereira",
+      "votos": 15,
+      "pctTotal": 0.17
+    },
+    {
+      "locationId": "2-circulo-social-israelita",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "111-imperatriz-dona-leopoldina-e-e-e-f",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "160-escola-estadual-violeta-magalhaes",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "2-instituto-sao-francisco-santa-familia",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "159-esc-est-de-ensino-fundamental-madre-maria-selima",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "1-escola-estadual-euclides-da-cunha",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "2-escola-estadual-ildefonso-gomes",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "1-escola-estadual-marechal-floriano-peixoto",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "1-escola-la-salle-pao-dos-pobres-secoes-olintho-de-oliveira",
+      "votos": 14,
+      "pctTotal": 0.16
+    },
+    {
+      "locationId": "161-clube-do-professor-gaucho",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "114-machado-de-assis-esc-est-ens-fund",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "2-salao-paroquial-igreja-coracao-de-jesus",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "160-escola-estadual-rafael-pinto-bandeira",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "2-imed-atitus",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "1-escola-tecnica-estadual-parobe",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "1-faculdade-de-direito-ufrgs",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "1-escola-estadual-ernesto-dornelles",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "114-nacoes-unidas-esc-est-ens-fund",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "111-maria-tereza-da-silveira-escola-estadual",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "113-associacao-israelita-circulo-social-e-esportivo",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "112-educandario-sao-luiz",
+      "votos": 13,
+      "pctTotal": 0.15
+    },
+    {
+      "locationId": "2-colegio-joao-paulo-i",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "161-eeem-raul-pilla",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "1-escola-estadual-mane-garrincha",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "1-secretaria-da-fazenda",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "1-escola-estadual-william-richard-schisler",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "161-eeef-clotilde-cachapuz-medeiros",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "160-e-e-paulina-moresco",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "114-paroquia-da-ascensao",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "160-esc-mun-de-ens-fund-aramy-silva",
+      "votos": 12,
+      "pctTotal": 0.14
+    },
+    {
+      "locationId": "158-major-miguel-jose-pereira-esc-est-de-ens-fundamental",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "113-dr-emilio-kemp-escola-estadual",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "161-eeef-henrique-farjat",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "1-sesc-centro",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "1-foro-trabalhista-de-porto-alegre",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "1-senac",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "161-eeem-oscar-coelho-de-souza",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "1-instituto-da-providencia",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "160-escola-estadual-osorio-duque-estrada",
+      "votos": 11,
+      "pctTotal": 0.13
+    },
+    {
+      "locationId": "1-salao-paroquial-da-igreja-nossa-senhora-da-pompeia",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "114-santa-rita-de-cassia-esc-est-ens-fund",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "1-escola-estadual-protasio-alves",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "111-escola-munic-de-1-grau-vereador-antonio-giudice",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "1-escola-mae-admiravel",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "1-escola-estadual-leopolda-barnewitz",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "112-escola-estadual-brigadeiro-francisco-de-lima-e-silva",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "111-escola-estadual-de-1-grau-jose-garibaldi",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "2-escola-estadual-luciana-de-abreu",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "158-eng-rodolfo-ahrons-esc-est-de-ens-fundamental",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "161-emef-campos-do-cristal",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "114-uniritter-centro-universitario-ritter-dos-reis",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "161-ce-doutor-glicerio-alves",
+      "votos": 10,
+      "pctTotal": 0.12
+    },
+    {
+      "locationId": "114-cidade-jardim-esc-est-ens-fund",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "2-colegio-vicentino-santa-cecilia",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "112-porto-alegre-escola-estadual-de-ensino-fundamental",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "158-decio-martins-costa-esc-est-vila-elizabeth",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "111-col-romano-ii-unid-sao-mateus-antigo-espirito-santo",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "160-igreja-sao-mateus-ginasio-de-esportes",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "158-pres-joao-belchior-m-goulart-esc-mun-de-ens-fund",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "1-instituto-de-artes-da-ufrgs",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "2-colegio-concordia",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "2-escola-estadual-branca-diva-pereira-de-souza",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "160-escola-estadual-pedro-sirangelo",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "114-igreja-sao-jose-salao-paroquial",
+      "votos": 9,
+      "pctTotal": 0.1
+    },
+    {
+      "locationId": "1-instituto-imaculado-coracao-de-maria",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "1-universidade-federal-de-ciencias-da-saude-de-porto-alegre",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "2-escola-normal-1-de-maio",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "160-escola-estadual-visconde-do-rio-grande",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "111-esc-estadual-de-ensino-fund-aurelio-reis",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "1-escola-de-administracao-da-ufrgs",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "111-carlos-fagundes-de-mello-unidade-estadual-de-ensino",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "161-eeef-dr-jose-loureiro-da-silva",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "160-e-m-1-g-leocadia-felizardo-prestes",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "160-clube-dos-jangadeiros",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "1-colegio-romano-santa-marta",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "111-colegio-estadual-dom-joao-becker",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "160-escola-estadual-alceu-wamosy",
+      "votos": 8,
+      "pctTotal": 0.09
+    },
+    {
+      "locationId": "161-eeef-evarista-flores-da-cunha",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "1-palacio-do-min-publico-forte-apache",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "111-n-s-do-montserrat-salao-paroquial-da-igreja",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "112-lauro-rodrigues-esc-municipal-de-ens-fundamental",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "114-fernando-ferrari-esc-est-ens-fund",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "161-eef-madre-raffo",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "161-emef-dolores-alcaraz-caldas",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "161-emef-lidovino-fanton",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "114-simoes-lopes-neto-esc-est-ens-fund",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "160-tristezense-piscina-clube",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "161-eeef-luiz-gama",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "161-eeef-genoveva-da-costa-bernardes",
+      "votos": 7,
+      "pctTotal": 0.08
+    },
+    {
+      "locationId": "2-senai-visconde-de-maua",
+      "votos": 6,
+      "pctTotal": 0.07
+    },
+    {
+      "locationId": "114-maria-imaculada-escola",
+      "votos": 6,
+      "pctTotal": 0.07
+    },
+    {
+      "locationId": "160-associacao-do-pessoal-da-caixa-economica-federal",
+      "votos": 6,
+      "pctTotal": 0.07
+    },
+    {
+      "locationId": "161-eeef-general-neto",
+      "votos": 6,
+      "pctTotal": 0.07
+    },
+    {
+      "locationId": "161-emef-rincao",
+      "votos": 6,
+      "pctTotal": 0.07
+    },
+    {
+      "locationId": "160-e-e-1-g-monte-libano",
+      "votos": 6,
+      "pctTotal": 0.07
+    },
+    {
+      "locationId": "114-sao-joao-luiz-orione-capela",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "112-america-escola-estadual-de-ensino-fundamental",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "161-eeef-nossa-senhora-da-conceicao",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "160-instituto-educacional-joao-paulo-i",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "161-eeem-jose-do-patrocinio",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "160-colegio-marista-ipanema",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "158-prof-aurora-peixoto-de-azevedo-esc-est-de-ens-fundamental",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "1-faculdade-de-ciencias-economicas-ufrgs",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "2-escola-estadual-camila-furtado-alves",
+      "votos": 5,
+      "pctTotal": 0.06
+    },
+    {
+      "locationId": "161-sao-francisco-projeto-social",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "161-paroquia-n-s-aparecida-c-social-pe-pedro-leonardi",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "113-ginasio-parque-ararigboia",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "114-gabriel-obino-esc-munic",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "114-joao-paulo-colegio",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "161-emef-vereador-carlos-pessoa-de-brum",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "1-tribunal-de-contas-do-estado",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "161-emef-chapeu-do-sol",
+      "votos": 4,
+      "pctTotal": 0.05
+    },
+    {
+      "locationId": "2-instituto-estadual-de-educacao-general-flores-da-cunha",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "161-emeef-tristao-sucupira-vianna",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "111-danilo-antonio-zaffari-e-e-e-f",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "160-centro-comunitario-parque-madepinho",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "161-eeef-heitor-villa-lobos",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "111-carlos-barbosa-goncalves-escola-estadual",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "2-conselho-regional-de-quimica",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "1-escola-delta",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "158-cristovao-colombo-esc-est-e-medio",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "1-inss",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "159-colegio-marista-champagnat-secao-especial",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "2-escola-estadual-candido-jose-de-godoi",
+      "votos": 3,
+      "pctTotal": 0.03
+    },
+    {
+      "locationId": "161-eeief-fag-nhin",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "158-cesmar-centro-social-marista",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "161-esporte-clube-lajeado",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "161-emef-nossa-senhora-do-carmo",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "161-emef-mario-quintana",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "111-lions-club-p-a-farrapos-esc-est-de-1-grau",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "111-santa-luiza-obra-social",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "1-escola-estadual-oscar-schmitt-i-das-flores",
+      "votos": 2,
+      "pctTotal": 0.02
+    },
+    {
+      "locationId": "161-eeef-custodio-de-mello",
+      "votos": 1,
+      "pctTotal": 0.01
+    },
+    {
+      "locationId": "160-e-e-1-g-inc-dr-tancredo-neves",
+      "votos": 1,
+      "pctTotal": 0.01
+    },
+    {
+      "locationId": "1-escola-estadual-maria-jose-mabilde-i-pintada",
+      "votos": 1,
+      "pctTotal": 0.01
+    },
+    {
+      "locationId": "161-eeef-pedro-americo",
+      "votos": 1,
+      "pctTotal": 0.01
+    },
+    {
+      "locationId": "161-eeef-margarida-coelho-de-souza",
+      "votos": 1,
+      "pctTotal": 0.01
+    }
+  ]
+}
