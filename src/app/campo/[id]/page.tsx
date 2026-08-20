@@ -2,7 +2,7 @@
 
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import type { PointStatus, WindbannerRouteWithPoints } from "@/lib/windbanner-types";
+import { routeResponsavelLabel, type PointStatus, type WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import { fetchRoute, updatePoint } from "@/lib/windbanner-client";
 import { POINT_STATUS_BADGE_CLASS, POINT_STATUS_LABEL } from "@/lib/windbanner-status";
 import { useToast } from "@/components/toast/useToast";
@@ -57,7 +57,7 @@ export default function FieldChecklistPage() {
       <div className="sticky top-0 z-10 -mx-3 border-b border-slate-200 bg-white px-3 py-3 sm:-mx-4 sm:px-4">
         <h1 className="text-base font-bold text-slate-900">{route.nome}</h1>
         <p className="text-sm text-slate-500">
-          {route.responsavel} — {colocados}/{total} colocados
+          {routeResponsavelLabel(route)} — {colocados}/{total} colocados
         </p>
       </div>
 

@@ -16,10 +16,10 @@ export async function PATCH(request: Request, { params }: Context) {
   const { id } = await params;
   const body = await request.json();
   const route = await updateRoute(id, {
-    nome: body.nome,
-    responsavel: body.responsavel,
-    dataPrevista: body.dataPrevista,
+    nome: typeof body.nome === "string" ? body.nome : undefined,
+    responsavelId: typeof body.responsavelId === "string" ? body.responsavelId : undefined,
     status: body.status,
+    ativo: typeof body.ativo === "boolean" ? body.ativo : undefined,
   });
   return NextResponse.json(route);
 }

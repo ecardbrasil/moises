@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
-import type { WindbannerRouteWithPoints } from "@/lib/windbanner-types";
+import { routeResponsavelLabel, type WindbannerRouteWithPoints } from "@/lib/windbanner-types";
 import { addPoint, deletePoint, deleteRoute, fetchRoute, reorderPoints, updateRoute } from "@/lib/windbanner-client";
 import { POINT_STATUS_BADGE_CLASS, POINT_STATUS_LABEL } from "@/lib/windbanner-status";
 import { useToast } from "@/components/toast/useToast";
@@ -86,7 +86,7 @@ export default function RouteEditorPage() {
     if (!confirm("Excluir esta rota inteira, incluindo todos os pontos?")) return;
     await deleteRoute(routeId);
     toast({ message: "Rota excluída" });
-    router.push("/admin");
+    router.push("/admin/windbanners");
   }
 
   async function handleStatusChange(status: WindbannerRouteWithPoints["status"]) {
@@ -102,7 +102,7 @@ export default function RouteEditorPage() {
   return (
     <div className="mx-auto max-w-3xl p-4 sm:p-6">
       <div className="flex items-center justify-between gap-3">
-        <Link href="/admin" className="text-sm text-slate-500 hover:text-slate-800">
+        <Link href="/admin/windbanners" className="text-sm text-slate-500 hover:text-slate-800">
           ← Rotas
         </Link>
         <Link
@@ -117,7 +117,7 @@ export default function RouteEditorPage() {
         <div>
           <h1 className="text-lg font-bold text-slate-900">{route.nome}</h1>
           <p className="text-sm text-slate-500">
-            {route.responsavel} {route.dataPrevista ? `— ${route.dataPrevista}` : ""}
+            {routeResponsavelLabel(route)} {route.dataPrevista ? `— ${route.dataPrevista}` : ""}
           </p>
         </div>
         <select
