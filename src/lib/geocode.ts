@@ -13,6 +13,12 @@ export interface GeocodeResult {
   displayName: string;
 }
 
+export interface GeocodeSuggestion {
+  label: string;
+  lat: number;
+  lng: number;
+}
+
 async function query(q: string): Promise<{ lat: number; lng: number; displayName: string } | null> {
   const url = new URL(NOMINATIM_URL);
   url.searchParams.set("q", q);
@@ -44,4 +50,26 @@ export async function geocodeAddress(endereco: string): Promise<GeocodeResult | 
     if (result) return { ...result, status: attempt.status };
   }
   return null;
+}
+
+// Suggestion list for the address-search autocomplete used when building a
+// route: every result is a literal user pick, so there is no "ok"/"approx"
+// ambiguity to encode like geocodeAddress has to.
+export async function suggestAddresses(q: string, limit = 5): Promise<GeocodeSuggestion[]> {
+  const url = new URL(NOMINATIM_URL);
+  url.searchParams.set("q", `${q}, ${CITY_SUFFIX}`);
+  url.searchParams.set("format", "jsonv2");
+  url.searchParams.set("limit", String(limit));
+  url.searchParams.set("countrycodes", "br");
+  url.searchParams.set("viewbox", POA_VIEWBOX);
+  url.searchParams.set("addressdetails", "1");
+
+  const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  if (!res.ok) throw new Error(`Nominatim HTTP ${res.status}`);
+  const data = await res.json();
+  return (data as Array<{ lat: string; lon: string; display_name: string }>).map((item) => ({
+    label: item.display_name,
+    lat: Number(item.lat),
+    lng: Number(item.lon),
+  }));
 }

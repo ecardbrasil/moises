@@ -2,14 +2,19 @@ import { getSupabase } from "./supabase";
 import type { PointStatus, RouteStatus, WindbannerPoint, WindbannerRoute, WindbannerRouteWithPoints } from "./windbanner-types";
 import type { GeocodeStatus } from "./types";
 
+const ROUTE_SELECT = "*, windbanner_responsaveis(nome)";
+
 interface RouteRow {
   id: string;
   nome: string;
   responsavel: string;
+  responsavel_id: string | null;
+  ativo: boolean;
   data_prevista: string | null;
   status: RouteStatus;
   created_at: string;
   updated_at: string;
+  windbanner_responsaveis?: { nome: string } | null;
 }
 
 interface PointRow {
@@ -32,6 +37,9 @@ function rowToRoute(row: RouteRow): WindbannerRoute {
     id: row.id,
     nome: row.nome,
     responsavel: row.responsavel,
+    responsavelId: row.responsavel_id,
+    responsavelNome: row.windbanner_responsaveis?.nome ?? row.responsavel,
+    ativo: row.ativo,
     dataPrevista: row.data_prevista,
     status: row.status,
     createdAt: row.created_at,
@@ -56,12 +64,11 @@ function rowToPoint(row: PointRow): WindbannerPoint {
   };
 }
 
-export async function getRoutesWithPoints(): Promise<WindbannerRouteWithPoints[]> {
+export async function getRoutesWithPoints(options?: { ativoOnly?: boolean }): Promise<WindbannerRouteWithPoints[]> {
   const supabase = getSupabase();
-  const { data: routeRows, error: routesError } = await supabase
-    .from("windbanner_routes")
-    .select("*")
-    .order("created_at", { ascending: false });
+  let query = supabase.from("windbanner_routes").select(ROUTE_SELECT).order("created_at", { ascending: false });
+  if (options?.ativoOnly) query = query.eq("ativo", true);
+  const { data: routeRows, error: routesError } = await query;
   if (routesError) throw routesError;
 
   const { data: pointRows, error: pointsError } = await supabase
@@ -86,7 +93,7 @@ export async function getRoutesWithPoints(): Promise<WindbannerRouteWithPoints[]
 
 export async function getRouteWithPoints(id: string): Promise<WindbannerRouteWithPoints | null> {
   const supabase = getSupabase();
-  const { data: routeRow, error: routeError } = await supabase.from("windbanner_routes").select("*").eq("id", id).maybeSingle();
+  const { data: routeRow, error: routeError } = await supabase.from("windbanner_routes").select(ROUTE_SELECT).eq("id", id).maybeSingle();
   if (routeError) throw routeError;
   if (!routeRow) return null;
 
@@ -105,16 +112,36 @@ export async function getRouteWithPoints(id: string): Promise<WindbannerRouteWit
 
 export interface CreateRouteInput {
   nome: string;
-  responsavel: string;
+  /** @deprecated free-text fallback — prefer responsavelId once the caller has one */
+  responsavel?: string;
+  responsavelId?: string | null;
   dataPrevista?: string | null;
+  ativo?: boolean;
 }
 
 export async function createRoute(input: CreateRouteInput): Promise<WindbannerRoute> {
   const supabase = getSupabase();
+  let responsavelText = input.responsavel ?? "";
+  if (input.responsavelId) {
+    const { data: responsavelRow, error: responsavelError } = await supabase
+      .from("windbanner_responsaveis")
+      .select("nome")
+      .eq("id", input.responsavelId)
+      .single();
+    if (responsavelError) throw responsavelError;
+    responsavelText = responsavelRow.nome;
+  }
+
   const { data, error } = await supabase
     .from("windbanner_routes")
-    .insert({ nome: input.nome, responsavel: input.responsavel, data_prevista: input.dataPrevista ?? null })
-    .select("*")
+    .insert({
+      nome: input.nome,
+      responsavel: responsavelText,
+      responsavel_id: input.responsavelId ?? null,
+      data_prevista: input.dataPrevista ?? null,
+      ...(input.ativo !== undefined ? { ativo: input.ativo } : {}),
+    })
+    .select(ROUTE_SELECT)
     .single();
   if (error) throw error;
   return rowToRoute(data as RouteRow);
@@ -122,9 +149,12 @@ export async function createRoute(input: CreateRouteInput): Promise<WindbannerRo
 
 export interface UpdateRouteInput {
   nome?: string;
+  /** @deprecated free-text fallback — prefer responsavelId once the caller has one */
   responsavel?: string;
+  responsavelId?: string | null;
   dataPrevista?: string | null;
   status?: RouteStatus;
+  ativo?: boolean;
 }
 
 export async function updateRoute(id: string, input: UpdateRouteInput): Promise<WindbannerRoute> {
@@ -132,10 +162,23 @@ export async function updateRoute(id: string, input: UpdateRouteInput): Promise<
   const patch: Record<string, unknown> = { updated_at: new Date().toISOString() };
   if (input.nome !== undefined) patch.nome = input.nome;
   if (input.responsavel !== undefined) patch.responsavel = input.responsavel;
+  if (input.responsavelId !== undefined) {
+    patch.responsavel_id = input.responsavelId;
+    if (input.responsavelId) {
+      const { data: responsavelRow, error: responsavelError } = await supabase
+        .from("windbanner_responsaveis")
+        .select("nome")
+        .eq("id", input.responsavelId)
+        .single();
+      if (responsavelError) throw responsavelError;
+      patch.responsavel = responsavelRow.nome;
+    }
+  }
   if (input.dataPrevista !== undefined) patch.data_prevista = input.dataPrevista;
   if (input.status !== undefined) patch.status = input.status;
+  if (input.ativo !== undefined) patch.ativo = input.ativo;
 
-  const { data, error } = await supabase.from("windbanner_routes").update(patch).eq("id", id).select("*").single();
+  const { data, error } = await supabase.from("windbanner_routes").update(patch).eq("id", id).select(ROUTE_SELECT).single();
   if (error) throw error;
   return rowToRoute(data as RouteRow);
 }
